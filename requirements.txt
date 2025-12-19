@@ -1,0 +1,9 @@
+# Keyword Injection System Dependencies
+
+# GUI
+streamlit>=1.28.0
+pandas>=2.0.0
+
+# Core (standard library - no install needed)
+# json, re, pathlib, argparse, datetime, collections, difflib, hashlib, subprocess
+

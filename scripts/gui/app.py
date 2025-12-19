@@ -112,6 +112,7 @@ st.sidebar.page_link("pages/2_keywords.py", label="🏷️ Keywords")
 st.sidebar.page_link("pages/3_injection.py", label="💉 Run Injection")
 st.sidebar.page_link("pages/4_results.py", label="📊 Results & Diffs")
 st.sidebar.page_link("pages/5_rollback.py", label="⏪ Rollback")
+st.sidebar.page_link("pages/6_export.py", label="📦 Export")
 
 st.sidebar.markdown("---")
 st.sidebar.caption("v1.0.0 | OpsGuru")

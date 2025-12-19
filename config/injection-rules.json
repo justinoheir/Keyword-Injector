@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "assignment_rules": {
+    "max_keywords_per_article": 5,
+    "min_keywords_per_article": 0,
+    "max_articles_per_keyword": 10,
+    "assignment_strategy": "theme-based-with-gap-fill"
+  },
+  "insertion_rules": {
+    "max_exact_match_per_keyword": 2,
+    "max_semantic_variants_per_keyword": 1,
+    "preferred_locations": ["first_paragraph", "second_paragraph", "conclusion", "h2_subheadings"],
+    "forbidden_locations": ["quotes", "proper_nouns", "code_blocks", "lists", "urls"],
+    "max_sentences_modified_pct": 15,
+    "max_words_added_pct": 3,
+    "max_words_per_sentence_addition": 15
+  },
+  "insertion_priority": [
+    "replace_near_match",
+    "extend_existing_sentence",
+    "transitional_sentence",
+    "skip_and_log"
+  ],
+  "guardrails": {
+    "article_level": {
+      "max_word_count_increase_pct": 5,
+      "max_sentences_modified_pct": 20,
+      "max_repeated_phrase_occurrences": 3,
+      "min_repeated_phrase_words": 5,
+      "max_readability_score_drop": 5,
+      "abort_on_new_facts": true
+    },
+    "keyword_level": {
+      "max_insertion_attempts": 3,
+      "theme_mismatch_threshold": 0.7
+    },
+    "run_level": {
+      "max_failed_articles_pct": 10,
+      "max_avg_word_count_increase_pct": 4
+    }
+  },
+  "quality_flags": {
+    "readability_drop_threshold": 3,
+    "awkward_construction_patterns": [
+      "\\b(\\w+)\\s+\\1\\b",
+      "\\b(the\\s+){2,}",
+      "\\b(and\\s+){3,}",
+      "\\b(with\\s+){2,}"
+    ]
+  }
+}
+

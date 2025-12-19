@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "description": "Patterns and contexts where keyword injection should be skipped",
+  "skip_contexts": {
+    "code_blocks": {
+      "pattern": "```[\\s\\S]*?```",
+      "reason": "Preserve code integrity"
+    },
+    "inline_code": {
+      "pattern": "`[^`]+`",
+      "reason": "Preserve inline code"
+    },
+    "quotes": {
+      "pattern": "\"[^\"]{20,}\"",
+      "reason": "Preserve quoted speech"
+    },
+    "urls": {
+      "pattern": "https?://[^\\s]+",
+      "reason": "Preserve URLs"
+    },
+    "email_addresses": {
+      "pattern": "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}",
+      "reason": "Preserve email addresses"
+    },
+    "proper_nouns_patterns": {
+      "patterns": [
+        "said [A-Z][a-z]+ [A-Z][a-z]+",
+        "CEO|CTO|VP|President|Director",
+        "AWS|Amazon|Google|Microsoft|Azure"
+      ],
+      "reason": "Preserve proper nouns and titles"
+    }
+  },
+  "skip_sections": [
+    "## About",
+    "## Contact",
+    "## References",
+    "## Footnotes"
+  ],
+  "min_sentence_length_for_injection": 8,
+  "max_sentence_length_for_injection": 100
+}
+

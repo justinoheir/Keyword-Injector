@@ -6,7 +6,7 @@ This script exports all processed articles into a single markdown document
 with a comprehensive log of all keyword changes made.
 
 Usage:
-    python 05_export-consolidated.py [--run-id RUN_ID] [--output PATH] [--include-raw]
+    python 05_export-consolidated.py [--run-id RUN_ID] [--output PATH] [--include-raw] [--log-only] [--articles-only] [--no-toc]
 """
 
 import re
@@ -14,7 +14,7 @@ import json
 import argparse
 from pathlib import Path
 from datetime import datetime
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 
 
 def load_json(path: Path) -> Optional[Dict]:
@@ -31,6 +31,13 @@ def strip_frontmatter(content: str) -> str:
         if len(parts) >= 3:
             return parts[2].strip()
     return content
+
+
+def truncate_title(title: str, max_length: int = 60) -> str:
+    """Truncate title with ellipsis if too long."""
+    if len(title) > max_length:
+        return title[:max_length] + "..."
+    return title
 
 
 def generate_change_log(logs_dir: Path, run_id: str, keyword_manifest: Dict) -> str:
@@ -89,7 +96,8 @@ def generate_change_log(logs_dir: Path, run_id: str, keyword_manifest: Dict) -> 
             
             status_icon = "✅" if status == "passed" else "❌"
             
-            lines.append(f"### {status_icon} Article {article_id}: {article_title[:60]}")
+            # Fixed: Use consistent truncation with ellipsis
+            lines.append(f"### {status_icon} Article {article_id}: {truncate_title(article_title)}")
             lines.append("")
             
             # Metrics
@@ -139,15 +147,149 @@ def generate_change_log(logs_dir: Path, run_id: str, keyword_manifest: Dict) -> 
     return "\n".join(lines)
 
 
+def get_article_files(
+    articles_dir: Path,
+    include_raw_fallback: bool = False
+) -> Tuple[List[Path], str, List[str]]:
+    """
+    Get list of article files to export.
+    
+    Returns:
+        Tuple of (article_files, source_type, missing_article_ids)
+    """
+    processed_dir = articles_dir / "processed"
+    raw_dir = articles_dir / "raw"
+    
+    processed_files = {}
+    raw_files = {}
+    
+    # Index processed files by article ID
+    if processed_dir.exists():
+        for f in processed_dir.glob("*.md"):
+            article_id = f.name[:3]
+            processed_files[article_id] = f
+    
+    # Index raw files by article ID
+    if raw_dir.exists():
+        for f in raw_dir.glob("*.md"):
+            article_id = f.name[:3]
+            raw_files[article_id] = f
+    
+    # Determine which files to include
+    all_article_ids = sorted(set(processed_files.keys()) | set(raw_files.keys()))
+    article_files = []
+    missing_ids = []
+    source_parts = []
+    
+    for article_id in all_article_ids:
+        if article_id in processed_files:
+            article_files.append(processed_files[article_id])
+        elif include_raw_fallback and article_id in raw_files:
+            article_files.append(raw_files[article_id])
+        else:
+            missing_ids.append(article_id)
+    
+    # Determine source type description
+    has_processed = len(processed_files) > 0
+    used_raw_fallback = include_raw_fallback and any(
+        aid not in processed_files and aid in raw_files 
+        for aid in all_article_ids
+    )
+    
+    if has_processed and used_raw_fallback:
+        source_type = "Mixed (processed with raw fallback for failed articles)"
+    elif has_processed:
+        source_type = "Processed (with keywords)"
+    else:
+        source_type = "Raw (original)"
+    
+    return article_files, source_type, missing_ids
+
+
+def generate_articles_only(
+    articles_dir: Path,
+    include_raw_fallback: bool = False,
+    include_toc: bool = True
+) -> str:
+    """Generate document with articles only (no change log)."""
+    lines = []
+    
+    # Document header
+    lines.append("# Consolidated Blog Articles")
+    lines.append("")
+    lines.append(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    lines.append(f"**Source:** Keyword Injection System")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    
+    # Get article files
+    article_files, source_type, missing_ids = get_article_files(
+        articles_dir, include_raw_fallback
+    )
+    
+    # Table of contents
+    if include_toc:
+        lines.append("## Table of Contents")
+        lines.append("")
+        lines.append(f"*Source: {source_type}*")
+        
+        if missing_ids:
+            lines.append(f"")
+            lines.append(f"*⚠️ {len(missing_ids)} articles not available: {', '.join(missing_ids)}*")
+        
+        lines.append("")
+        
+        for i, article_file in enumerate(article_files, 1):
+            content = article_file.read_text(encoding='utf-8')
+            title_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
+            if not title_match:
+                title_match = re.search(r'title:\s*"([^"]+)"', content)
+            
+            title = title_match.group(1) if title_match else article_file.stem
+            title = truncate_title(title)
+            
+            article_id = article_file.name[:3]
+            anchor = f"article-{article_id}"
+            
+            lines.append(f"{i}. [{title}](#{anchor})")
+        
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+    
+    # Articles section
+    lines.append("# Articles")
+    lines.append("")
+    
+    for article_file in article_files:
+        content = article_file.read_text(encoding='utf-8')
+        article_id = article_file.name[:3]
+        
+        # Strip frontmatter for cleaner output
+        clean_content = strip_frontmatter(content)
+        
+        # Add anchor
+        lines.append(f'<a id="article-{article_id}"></a>')
+        lines.append("")
+        lines.append(clean_content)
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+    
+    return "\n".join(lines)
+
+
 def generate_consolidated_document(
     articles_dir: Path,
     logs_dir: Path,
     run_id: str,
     keyword_manifest: Dict,
     article_manifest: Dict,
-    include_raw: bool = False
+    include_raw_fallback: bool = False,
+    include_toc: bool = True
 ) -> str:
-    """Generate the full consolidated document."""
+    """Generate the full consolidated document with change log and articles."""
     lines = []
     
     # Document header
@@ -161,46 +303,40 @@ def generate_consolidated_document(
     lines.append("---")
     lines.append("")
     
+    # Get article files
+    article_files, source_type, missing_ids = get_article_files(
+        articles_dir, include_raw_fallback
+    )
+    
     # Table of contents
-    lines.append("## Table of Contents")
-    lines.append("")
-    
-    processed_dir = articles_dir / "processed"
-    raw_dir = articles_dir / "raw"
-    
-    # Use processed articles if available, otherwise raw
-    if processed_dir.exists() and list(processed_dir.glob("*.md")):
-        source_dir = processed_dir
-        source_type = "Processed (with keywords)"
-    else:
-        source_dir = raw_dir
-        source_type = "Raw (original)"
-    
-    lines.append(f"*Source: {source_type}*")
-    lines.append("")
-    
-    # Build article list
-    article_files = sorted(source_dir.glob("*.md"))
-    
-    # TOC entries
-    for i, article_file in enumerate(article_files, 1):
-        # Extract title from file
-        content = article_file.read_text(encoding='utf-8')
-        title_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
-        if not title_match:
-            title_match = re.search(r'title:\s*"([^"]+)"', content)
+    if include_toc:
+        lines.append("## Table of Contents")
+        lines.append("")
+        lines.append(f"*Source: {source_type}*")
         
-        title = title_match.group(1) if title_match else article_file.stem
-        title = title[:60] + "..." if len(title) > 60 else title
+        if missing_ids:
+            lines.append(f"")
+            lines.append(f"*⚠️ {len(missing_ids)} articles not available: {', '.join(missing_ids)}*")
         
-        article_id = article_file.name[:3]
-        anchor = f"article-{article_id}"
+        lines.append("")
         
-        lines.append(f"{i}. [{title}](#{anchor})")
-    
-    lines.append("")
-    lines.append("---")
-    lines.append("")
+        for i, article_file in enumerate(article_files, 1):
+            content = article_file.read_text(encoding='utf-8')
+            title_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
+            if not title_match:
+                title_match = re.search(r'title:\s*"([^"]+)"', content)
+            
+            title = title_match.group(1) if title_match else article_file.stem
+            title = truncate_title(title)
+            
+            article_id = article_file.name[:3]
+            anchor = f"article-{article_id}"
+            
+            lines.append(f"{i}. [{title}](#{anchor})")
+        
+        lines.append("")
+        lines.append("---")
+        lines.append("")
     
     # Change log section
     if run_id:
@@ -249,15 +385,30 @@ def main():
     parser.add_argument(
         "--include-raw",
         action="store_true",
-        help="Include raw articles if no processed versions exist"
+        help="Include raw articles as fallback for missing processed articles"
     )
     parser.add_argument(
         "--log-only",
         action="store_true",
         help="Export only the change log, not the full articles"
     )
+    parser.add_argument(
+        "--articles-only",
+        action="store_true",
+        help="Export only the articles, not the change log"
+    )
+    parser.add_argument(
+        "--no-toc",
+        action="store_true",
+        help="Exclude the table of contents from the export"
+    )
     
     args = parser.parse_args()
+    
+    # Validate mutually exclusive options
+    if args.log_only and args.articles_only:
+        print("Error: --log-only and --articles-only cannot be used together")
+        return 1
     
     # Paths
     script_dir = Path(__file__).parent.parent
@@ -273,20 +424,26 @@ def main():
     keyword_manifest = load_json(keywords_dir / "keyword-manifest.json")
     article_manifest = load_json(articles_dir / "article-manifest.json")
     
-    # Find run ID
+    # Find run ID (only needed if not articles-only)
     run_id = args.run_id
-    if not run_id and logs_dir.exists():
+    if not args.articles_only and not run_id and logs_dir.exists():
         runs = sorted([d.name for d in logs_dir.iterdir() if d.is_dir() and d.name.startswith("run-")])
         if runs:
             run_id = runs[-1]
             print(f"Using latest run: {run_id}")
     
-    # Generate document
+    # Generate document based on mode
     if args.log_only:
         if run_id:
             content = generate_change_log(logs_dir, run_id, keyword_manifest)
         else:
             content = "No injection run found.\n"
+    elif args.articles_only:
+        content = generate_articles_only(
+            articles_dir,
+            include_raw_fallback=args.include_raw,
+            include_toc=not args.no_toc
+        )
     else:
         content = generate_consolidated_document(
             articles_dir,
@@ -294,7 +451,8 @@ def main():
             run_id,
             keyword_manifest,
             article_manifest,
-            include_raw=args.include_raw
+            include_raw_fallback=args.include_raw,
+            include_toc=not args.no_toc
         )
     
     # Ensure output directory exists
@@ -318,4 +476,3 @@ def main():
 
 if __name__ == "__main__":
     exit(main())
-

@@ -24,6 +24,23 @@ def load_json(path):
     return None
 
 
+def count_articles():
+    """Count raw and processed articles, and identify missing ones."""
+    raw_dir = ARTICLES_DIR / "raw"
+    processed_dir = ARTICLES_DIR / "processed"
+    
+    raw_ids = set()
+    processed_ids = set()
+    
+    if raw_dir.exists():
+        raw_ids = {f.name[:3] for f in raw_dir.glob("*.md")}
+    if processed_dir.exists():
+        processed_ids = {f.name[:3] for f in processed_dir.glob("*.md")}
+    
+    missing_ids = raw_ids - processed_ids
+    return len(raw_ids), len(processed_ids), sorted(missing_ids)
+
+
 st.title("📦 Export")
 st.caption("Generate consolidated documents with change logs")
 
@@ -32,19 +49,26 @@ st.markdown("---")
 # Current status
 st.subheader("📊 Available Content")
 
+raw_count, processed_count, missing_ids = count_articles()
+
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    raw_count = len(list((ARTICLES_DIR / "raw").glob("*.md"))) if (ARTICLES_DIR / "raw").exists() else 0
     st.metric("Raw Articles", raw_count)
 
 with col2:
-    processed_count = len(list((ARTICLES_DIR / "processed").glob("*.md"))) if (ARTICLES_DIR / "processed").exists() else 0
     st.metric("Processed Articles", processed_count)
 
 with col3:
     runs = sorted([d for d in LOGS_DIR.iterdir() if d.is_dir() and d.name.startswith("run-")], reverse=True) if LOGS_DIR.exists() else []
     st.metric("Injection Runs", len(runs))
+
+# Show missing articles warning if any
+if missing_ids:
+    with st.expander(f"⚠️ {len(missing_ids)} articles missing from processed (failed injection)", expanded=False):
+        st.caption("These articles failed validation and don't have processed versions:")
+        st.code(", ".join(missing_ids))
+        st.info("Enable 'Include raw articles as fallback' below to include original versions of these articles.")
 
 st.markdown("---")
 
@@ -61,22 +85,26 @@ with col1:
     )
 
 with col2:
-    # Run selector
-    if runs:
-        run_options = ["Latest"] + [r.name for r in runs]
-        selected_run = st.selectbox(
-            "Include changes from run",
-            options=run_options,
-            help="Select which injection run to include in the change log"
-        )
-        
-        if selected_run == "Latest":
-            run_id = runs[0].name if runs else None
+    # Run selector (only relevant for change log)
+    if export_type != "Articles Only":
+        if runs:
+            run_options = ["Latest"] + [r.name for r in runs]
+            selected_run = st.selectbox(
+                "Include changes from run",
+                options=run_options,
+                help="Select which injection run to include in the change log"
+            )
+            
+            if selected_run == "Latest":
+                run_id = runs[0].name if runs else None
+            else:
+                run_id = selected_run
         else:
-            run_id = selected_run
+            st.info("No injection runs available")
+            run_id = None
     else:
-        st.info("No injection runs available")
         run_id = None
+        st.info("Change log not included in Articles Only mode")
 
 # Output format
 st.markdown("---")
@@ -95,10 +123,27 @@ with col2:
     st.markdown("<br>", unsafe_allow_html=True)
     include_toc = st.checkbox("Include Table of Contents", value=True)
 
+# Additional options
+col1, col2 = st.columns(2)
+
+with col1:
+    include_raw_fallback = st.checkbox(
+        "Include raw articles as fallback", 
+        value=False,
+        help="Use original (raw) articles for any that failed processing",
+        disabled=(processed_count == 0)  # No point if no processed articles
+    )
+
+with col2:
+    if missing_ids and include_raw_fallback:
+        st.success(f"✅ {len(missing_ids)} missing articles will be included from raw")
+    elif missing_ids:
+        st.warning(f"⚠️ {len(missing_ids)} articles will be excluded")
+
 st.markdown("---")
 
 # Preview section
-if run_id:
+if run_id and export_type != "Articles Only":
     with st.expander("📋 Preview Change Log Summary"):
         summary = load_json(LOGS_DIR / run_id / "run-summary.json")
         if summary:
@@ -125,11 +170,23 @@ if st.button("📦 Generate Export", type="primary", use_container_width=True):
             "--output", f"exports/{output_filename}"
         ]
         
-        if run_id:
+        # Add run ID for change log modes
+        if run_id and export_type != "Articles Only":
             cmd.extend(["--run-id", run_id])
         
+        # Handle export type
         if export_type == "Change Log Only":
             cmd.append("--log-only")
+        elif export_type == "Articles Only":
+            cmd.append("--articles-only")
+        
+        # Handle TOC option
+        if not include_toc:
+            cmd.append("--no-toc")
+        
+        # Handle raw fallback option
+        if include_raw_fallback:
+            cmd.append("--include-raw")
         
         # Run export
         result = subprocess.run(
@@ -205,4 +262,3 @@ if EXPORTS_DIR.exists():
         st.info("No exports yet. Generate one above!")
 else:
     st.info("No exports directory found.")
-

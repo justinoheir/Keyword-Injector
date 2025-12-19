@@ -12,6 +12,20 @@ A scalable, auditable workflow system for SEO keyword injection across blog arti
 
 ## Quick Start
 
+### Option 1: GUI (Recommended)
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the GUI
+streamlit run scripts/gui/app.py
+```
+
+Then open **http://localhost:8501** in your browser.
+
+### Option 2: Command Line
+
 ```bash
 # 1. Split consolidated articles
 python scripts/01_split-articles.py
@@ -48,9 +62,23 @@ python scripts/04_validate-output.py
 │   ├── 02_assign-keywords.py
 │   ├── 03_inject-keywords.py
 │   ├── 04_validate-output.py
+│   ├── gui/              # Streamlit GUI
+│   │   ├── app.py        # Main dashboard
+│   │   └── pages/        # GUI pages
 │   └── utils/
 └── .docs/                # Documentation
 ```
+
+## GUI Features
+
+The Streamlit GUI provides:
+
+- **Dashboard**: Overview metrics and recent runs
+- **Articles Browser**: Search, filter, and preview articles
+- **Keywords Manager**: View clusters and assignments
+- **Injection Runner**: Execute with dry-run support
+- **Results Viewer**: Diffs and validation reports
+- **Rollback Interface**: Revert changes easily
 
 ## Configuration
 

@@ -1,0 +1,117 @@
+{
+  "article_id": "078",
+  "article_title": "078",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.181428",
+  "metrics": {
+    "word_count_before": 1925,
+    "word_count_after": 1942,
+    "word_count_delta": 17,
+    "word_count_delta_pct": 0.88,
+    "sentences_modified": 5,
+    "sentences_total": 89,
+    "sentences_modified_pct": 5.62
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt...",
+          "after": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt...",
+          "after": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt...",
+          "after": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt...",
+          "after": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt...",
+          "after": "the-growing-landscape-of-tools\"\ntitle: \"GitOps \\- The Growing Landscape of Tools\"\nword_count: 1928\nt..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['cloudbees ci/cd powered by jenkins', 'ci/cd powered by jenkins x', 'powered by jenkins x is']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

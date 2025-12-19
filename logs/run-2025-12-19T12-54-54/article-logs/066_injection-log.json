@@ -1,0 +1,93 @@
+{
+  "article_id": "066",
+  "article_title": "HIPAA Compliant Genomics Platform with Emedgene",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.026065",
+  "metrics": {
+    "word_count_before": 472,
+    "word_count_after": 489,
+    "word_count_delta": 17,
+    "word_count_delta_pct": 3.6,
+    "sentences_modified": 3,
+    "sentences_total": 20,
+    "sentences_modified_pct": 15.0
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Emedgene is on a mission to unlock genomic insights for the world’s health organizations by providin...",
+          "after": "Emedgene is on a mission to unlock genomic insights for the world’s health organizations by providin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "Emedgene is on a mission to unlock genomic insights for the world’s health organizations by providin...",
+          "after": "Emedgene is on a mission to unlock genomic insights for the world’s health organizations by providin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Emedgene is on a mission to unlock genomic insights for the world’s health organizations by providin...",
+          "after": "Emedgene is on a mission to unlock genomic insights for the world’s health organizations by providin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

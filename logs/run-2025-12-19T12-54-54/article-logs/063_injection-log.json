@@ -1,0 +1,95 @@
+{
+  "article_id": "063",
+  "article_title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.001026",
+  "metrics": {
+    "word_count_before": 542,
+    "word_count_after": 561,
+    "word_count_delta": 19,
+    "word_count_delta_pct": 3.51,
+    "sentences_modified": 3,
+    "sentences_total": 24,
+    "sentences_modified_pct": 12.5
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Welcome to part five of our five part series, Major Pitfalls to Avoid During Cloud Adoption.",
+          "after": "Welcome to part five of our five part series, Major Pitfalls to Avoid During Cloud Adoption with Fin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Welcome to part five of our five part series, Major Pitfalls to Avoid During Cloud Adoption with Fin...",
+          "after": "Welcome to part five of our five part series, Major Pitfalls to Avoid During Cloud Adoption with Fin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Welcome to part five of our five part series, Major Pitfalls to Avoid During Cloud Adoption with Fin...",
+          "after": "Welcome to part five of our five part series, Major Pitfalls to Avoid During Cloud Adoption with Fin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['pitfalls to avoid in cloud', 'to avoid in cloud adoption:']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

@@ -1,0 +1,117 @@
+{
+  "article_id": "005",
+  "article_title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.571203",
+  "metrics": {
+    "word_count_before": 1102,
+    "word_count_after": 1129,
+    "word_count_delta": 27,
+    "word_count_delta_pct": 2.45,
+    "sentences_modified": 5,
+    "sentences_total": 56,
+    "sentences_modified_pct": 8.93
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi...",
+          "after": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi...",
+          "after": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi...",
+          "after": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi...",
+          "after": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi...",
+          "after": "In order to enable GitHub Actions Workflows, all you need is to add a Workflow file into your reposi..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['which will be executed on']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

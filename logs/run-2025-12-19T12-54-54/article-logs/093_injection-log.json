@@ -1,0 +1,71 @@
+{
+  "article_id": "093",
+  "article_title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.414341",
+  "metrics": {
+    "word_count_before": 433,
+    "word_count_after": 440,
+    "word_count_delta": 7,
+    "word_count_delta_pct": 1.62,
+    "sentences_modified": 1,
+    "sentences_total": 13,
+    "sentences_modified_pct": 7.69
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Etcd is a distributed, consistent and highly-available key value store used as the Kubernetes backin...",
+          "after": "Etcd is a distributed, consistent and highly-available key value store used as the Kubernetes backin..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

@@ -1,0 +1,73 @@
+{
+  "article_id": "055",
+  "article_title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.973361",
+  "metrics": {
+    "word_count_before": 235,
+    "word_count_after": 241,
+    "word_count_delta": 6,
+    "word_count_delta_pct": 2.55,
+    "sentences_modified": 1,
+    "sentences_total": 8,
+    "sentences_modified_pct": 12.5
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru is proud to announce that it has achieved the Amazon API Gateway Service Delivery designatio...",
+          "after": "OpsGuru is proud to announce that it has achieved the Amazon API Gateway Service Delivery designatio..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['amazon api gateway service delivery']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

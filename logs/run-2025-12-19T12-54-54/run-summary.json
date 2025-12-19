@@ -1,0 +1,724 @@
+{
+  "run_id": "run-2025-12-19T12-54-54",
+  "started_at": "2025-12-19T12:54:54.534716",
+  "config_hash": "302194d5d5d9",
+  "dry_run": false,
+  "totals": {
+    "articles_processed": 98,
+    "articles_passed": 79,
+    "articles_failed": 19,
+    "keywords_inserted": 310,
+    "keywords_skipped": 180,
+    "total_words_added": 1532
+  },
+  "failed_articles": [
+    "005",
+    "007",
+    "008",
+    "009",
+    "010",
+    "021",
+    "041",
+    "048",
+    "055",
+    "058",
+    "059",
+    "061",
+    "062",
+    "063",
+    "078",
+    "081",
+    "084",
+    "094",
+    "098"
+  ],
+  "article_summaries": [
+    {
+      "article_id": "001",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 8
+    },
+    {
+      "article_id": "002",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 4
+    },
+    {
+      "article_id": "003",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "004",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 11
+    },
+    {
+      "article_id": "005",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 27
+    },
+    {
+      "article_id": "006",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "007",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 18
+    },
+    {
+      "article_id": "008",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 19
+    },
+    {
+      "article_id": "009",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 18
+    },
+    {
+      "article_id": "010",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 18
+    },
+    {
+      "article_id": "011",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 12
+    },
+    {
+      "article_id": "012",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 14
+    },
+    {
+      "article_id": "013",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "014",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "015",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "016",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "017",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 16
+    },
+    {
+      "article_id": "018",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 31
+    },
+    {
+      "article_id": "019",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 18
+    },
+    {
+      "article_id": "020",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 12
+    },
+    {
+      "article_id": "021",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 31
+    },
+    {
+      "article_id": "022",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 13
+    },
+    {
+      "article_id": "023",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 18
+    },
+    {
+      "article_id": "024",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 12
+    },
+    {
+      "article_id": "025",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 31
+    },
+    {
+      "article_id": "026",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 18
+    },
+    {
+      "article_id": "027",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 15
+    },
+    {
+      "article_id": "028",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 20
+    },
+    {
+      "article_id": "029",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 21
+    },
+    {
+      "article_id": "030",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 21
+    },
+    {
+      "article_id": "031",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "032",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "033",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 16
+    },
+    {
+      "article_id": "034",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 12
+    },
+    {
+      "article_id": "035",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 13
+    },
+    {
+      "article_id": "036",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 16
+    },
+    {
+      "article_id": "037",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "038",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 21
+    },
+    {
+      "article_id": "039",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 3
+    },
+    {
+      "article_id": "040",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 7
+    },
+    {
+      "article_id": "041",
+      "status": "failed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 7
+    },
+    {
+      "article_id": "042",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 2
+    },
+    {
+      "article_id": "043",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "044",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "045",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 13
+    },
+    {
+      "article_id": "046",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 3
+    },
+    {
+      "article_id": "047",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 11
+    },
+    {
+      "article_id": "048",
+      "status": "failed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 11
+    },
+    {
+      "article_id": "049",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 26
+    },
+    {
+      "article_id": "050",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "051",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 13
+    },
+    {
+      "article_id": "052",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 21
+    },
+    {
+      "article_id": "053",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "054",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 19
+    },
+    {
+      "article_id": "055",
+      "status": "failed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "056",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "057",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 24
+    },
+    {
+      "article_id": "058",
+      "status": "failed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 4
+    },
+    {
+      "article_id": "059",
+      "status": "failed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 4
+    },
+    {
+      "article_id": "060",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "061",
+      "status": "failed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "062",
+      "status": "failed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 12
+    },
+    {
+      "article_id": "063",
+      "status": "failed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 19
+    },
+    {
+      "article_id": "064",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 30
+    },
+    {
+      "article_id": "065",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 18
+    },
+    {
+      "article_id": "066",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 17
+    },
+    {
+      "article_id": "067",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 9
+    },
+    {
+      "article_id": "068",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 15
+    },
+    {
+      "article_id": "069",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 24
+    },
+    {
+      "article_id": "070",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 7
+    },
+    {
+      "article_id": "071",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "072",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 17
+    },
+    {
+      "article_id": "073",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 15
+    },
+    {
+      "article_id": "074",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 9
+    },
+    {
+      "article_id": "075",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 19
+    },
+    {
+      "article_id": "076",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 32
+    },
+    {
+      "article_id": "077",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 17
+    },
+    {
+      "article_id": "078",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 17
+    },
+    {
+      "article_id": "079",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 6
+    },
+    {
+      "article_id": "080",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 27
+    },
+    {
+      "article_id": "081",
+      "status": "failed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 9
+    },
+    {
+      "article_id": "082",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 24
+    },
+    {
+      "article_id": "083",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 12
+    },
+    {
+      "article_id": "084",
+      "status": "failed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "085",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 17
+    },
+    {
+      "article_id": "086",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 13
+    },
+    {
+      "article_id": "087",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 4
+    },
+    {
+      "article_id": "088",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "089",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 6
+    },
+    {
+      "article_id": "090",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 11
+    },
+    {
+      "article_id": "091",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 14
+    },
+    {
+      "article_id": "092",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 7
+    },
+    {
+      "article_id": "093",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 7
+    },
+    {
+      "article_id": "094",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    },
+    {
+      "article_id": "095",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 32
+    },
+    {
+      "article_id": "096",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 13
+    },
+    {
+      "article_id": "097",
+      "status": "passed",
+      "keywords_inserted": 4,
+      "keywords_skipped": 1,
+      "word_delta": 26
+    },
+    {
+      "article_id": "098",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 33
+    }
+  ],
+  "completed_at": "2025-12-19T12:54:55.553268"
+}

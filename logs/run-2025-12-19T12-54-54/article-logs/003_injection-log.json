@@ -1,0 +1,71 @@
+{
+  "article_id": "003",
+  "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.549927",
+  "metrics": {
+    "word_count_before": 259,
+    "word_count_after": 266,
+    "word_count_delta": 7,
+    "word_count_delta_pct": 2.7,
+    "sentences_modified": 1,
+    "sentences_total": 10,
+    "sentences_modified_pct": 10.0
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru announced today that it has achieved the Amazon Web Service (AWS) Service Delivery designati...",
+          "after": "OpsGuru announced today that it has achieved the Amazon Web Service (AWS) Service Delivery designati..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

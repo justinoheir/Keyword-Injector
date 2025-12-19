@@ -1,0 +1,71 @@
+{
+  "article_id": "015",
+  "article_title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.637705",
+  "metrics": {
+    "word_count_before": 295,
+    "word_count_after": 302,
+    "word_count_delta": 7,
+    "word_count_delta_pct": 2.37,
+    "sentences_modified": 1,
+    "sentences_total": 13,
+    "sentences_modified_pct": 7.69
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Company Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This purpose-driven engagement platform provides solutions that power B2B social recognition, loyalt...",
+          "after": "This purpose-driven engagement platform provides solutions that power B2B social recognition, loyalt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

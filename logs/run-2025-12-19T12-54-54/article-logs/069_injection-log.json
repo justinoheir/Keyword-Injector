@@ -1,0 +1,104 @@
+{
+  "article_id": "069",
+  "article_title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.044624",
+  "metrics": {
+    "word_count_before": 737,
+    "word_count_after": 761,
+    "word_count_delta": 24,
+    "word_count_delta_pct": 3.26,
+    "sentences_modified": 4,
+    "sentences_total": 28,
+    "sentences_modified_pct": 14.29
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Perfect is developing a cutting-edge AI and Big Data solution that is targeting the recruitment mark...",
+          "after": "Perfect is developing a cutting-edge AI and Big Data solution that is targeting the recruitment mark..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "Perfect is developing a cutting-edge AI and Big Data solution that is targeting the recruitment mark...",
+          "after": "Perfect is developing a cutting-edge AI and Big Data solution that is targeting the recruitment mark..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Perfect is developing a cutting-edge AI and Big Data solution that is targeting the recruitment mark...",
+          "after": "Perfect is developing a cutting-edge AI and Big Data solution that is targeting the recruitment mark..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Their solution allows the end-user to instantly connect with the next-best-hire through features tha...",
+          "after": "Their solution allows the end-user to instantly connect with the next-best-hire through features tha..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

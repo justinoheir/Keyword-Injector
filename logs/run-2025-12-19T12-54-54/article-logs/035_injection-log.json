@@ -1,0 +1,82 @@
+{
+  "article_id": "035",
+  "article_title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.832241",
+  "metrics": {
+    "word_count_before": 899,
+    "word_count_after": 912,
+    "word_count_delta": 13,
+    "word_count_delta_pct": 1.45,
+    "sentences_modified": 2,
+    "sentences_total": 38,
+    "sentences_modified_pct": 5.26
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Here are changes you can make to improve your database deployments, and why they help:",
+            "paragraph": 2,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Why: Development and testing environments exist to help catch mistakes before proceeding to producti...",
+          "after": "Why: Development and testing environments exist to help catch mistakes before proceeding to producti..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Here are changes you can make to improve your database deployments, and why they help:",
+            "paragraph": 2,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Why: Development and testing environments exist to help catch mistakes before proceeding to producti...",
+          "after": "Why: Development and testing environments exist to help catch mistakes before proceeding to producti..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

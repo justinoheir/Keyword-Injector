@@ -1,0 +1,115 @@
+{
+  "article_id": "054",
+  "article_title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.969610",
+  "metrics": {
+    "word_count_before": 1206,
+    "word_count_after": 1225,
+    "word_count_delta": 19,
+    "word_count_delta_pct": 1.58,
+    "sentences_modified": 5,
+    "sentences_total": 65,
+    "sentences_modified_pct": 7.69
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When you’re a company committed to the cloud transformation journey, one of the best ways to set you...",
+          "after": "When you’re a company committed to the cloud transformation journey, one of the best ways to set you..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When you’re a company committed to the cloud transformation journey, one of the best ways to set you...",
+          "after": "When you’re a company committed to the cloud transformation journey, one of the best ways to set you..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When you’re a company committed to the cloud transformation journey, one of the best ways to set you...",
+          "after": "When you’re a company committed to the cloud transformation journey, one of the best ways to set you..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Portfolio+ is a financial technology company offering a trusted core banking platform that includes ...",
+          "after": "Portfolio+ is a financial technology company offering a trusted core banking platform that includes ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Portfolio+ is a financial technology company offering a trusted core banking platform that includes ...",
+          "after": "Portfolio+ is a financial technology company offering a trusted core banking platform that includes ..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

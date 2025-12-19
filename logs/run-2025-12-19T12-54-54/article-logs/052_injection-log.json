@@ -1,0 +1,115 @@
+{
+  "article_id": "052",
+  "article_title": "What does a Service Mesh do? (Part 2\\)",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.948460",
+  "metrics": {
+    "word_count_before": 1595,
+    "word_count_after": 1616,
+    "word_count_delta": 21,
+    "word_count_delta_pct": 1.32,
+    "sentences_modified": 5,
+    "sentences_total": 84,
+    "sentences_modified_pct": 5.95
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This is the second post in our Service Mesh series",
+          "after": "This is the second post in our Service Mesh series with Financial services DevOps."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This is the second post in our Service Mesh series with Financial services DevOps",
+          "after": "This is the second post in our Service Mesh series with Financial services DevOps with Banking cloud..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Where the first post introduced service meshes at a high level, this one will drill down further int...",
+          "after": "Where the first post introduced service meshes at a high level, this one will drill down further int..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This is the second post in our Service Mesh series with Financial services DevOps with Banking cloud...",
+          "after": "This is the second post in our Service Mesh series with Financial services DevOps with Banking cloud..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Where the first post introduced service meshes at a high level, this one will drill down further int...",
+          "after": "Where the first post introduced service meshes at a high level, this one will drill down further int..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

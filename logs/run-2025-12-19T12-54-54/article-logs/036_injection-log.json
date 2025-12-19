@@ -1,0 +1,104 @@
+{
+  "article_id": "036",
+  "article_title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.838768",
+  "metrics": {
+    "word_count_before": 905,
+    "word_count_after": 921,
+    "word_count_delta": 16,
+    "word_count_delta_pct": 1.77,
+    "sentences_modified": 4,
+    "sentences_total": 32,
+    "sentences_modified_pct": 12.5
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "While “Howl’s Moving Castle” (2004) is an excellent viewing, as usual, it turns out to be a great an...",
+          "after": "While “Howl’s Moving Castle” (2004) is an excellent viewing, as usual, it turns out to be a great an..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "While “Howl’s Moving Castle” (2004) is an excellent viewing, as usual, it turns out to be a great an...",
+          "after": "While “Howl’s Moving Castle” (2004) is an excellent viewing, as usual, it turns out to be a great an..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Security Level 1: Castle and Moat",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "It did not take long for my thoughts to flow from Howl’s castle to cloud security because the castle...",
+          "after": "It did not take long for my thoughts to flow from Howl’s castle to cloud security because the castle..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "While “Howl’s Moving Castle” (2004) is an excellent viewing, as usual, it turns out to be a great an...",
+          "after": "While “Howl’s Moving Castle” (2004) is an excellent viewing, as usual, it turns out to be a great an..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

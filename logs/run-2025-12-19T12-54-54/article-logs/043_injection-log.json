@@ -1,0 +1,115 @@
+{
+  "article_id": "043",
+  "article_title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.885928",
+  "metrics": {
+    "word_count_before": 961,
+    "word_count_after": 994,
+    "word_count_delta": 33,
+    "word_count_delta_pct": 3.43,
+    "sentences_modified": 5,
+    "sentences_total": 49,
+    "sentences_modified_pct": 10.2
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Denis Astahov is a Solutions Architect by day and a YouTube content creator by night",
+          "after": "Denis Astahov is a Solutions Architect by day and a YouTube content creator by night with Financial ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Denis Astahov is a Solutions Architect by day and a YouTube content creator by night with Financial ...",
+          "after": "Denis Astahov is a Solutions Architect by day and a YouTube content creator by night with Financial ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 3
+          },
+          "method": "extend-sentence",
+          "before": "It’s what keeps Denis motivated, connected to the cloud developer community, and at the top of his g...",
+          "after": "It’s what keeps Denis motivated, connected to the cloud developer community, and at the top of his g..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 3
+          },
+          "method": "extend-sentence",
+          "before": "It’s what keeps Denis motivated, connected to the cloud developer community, and at the top of his g...",
+          "after": "It’s what keeps Denis motivated, connected to the cloud developer community, and at the top of his g..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 3
+          },
+          "method": "extend-sentence",
+          "before": "It’s what keeps Denis motivated, connected to the cloud developer community, and at the top of his g...",
+          "after": "It’s what keeps Denis motivated, connected to the cloud developer community, and at the top of his g..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

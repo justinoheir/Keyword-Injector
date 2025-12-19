@@ -1,0 +1,115 @@
+{
+  "article_id": "095",
+  "article_title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.480108",
+  "metrics": {
+    "word_count_before": 1249,
+    "word_count_after": 1281,
+    "word_count_delta": 32,
+    "word_count_delta_pct": 2.56,
+    "sentences_modified": 5,
+    "sentences_total": 61,
+    "sentences_modified_pct": 8.2
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-046",
+      "keyword_text": "Financial services disaster recovery cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "AWS has recently enhanced its capabilities by integrating Amazon Bedrock, a powerful Generative AI p...",
+          "after": "AWS has recently enhanced its capabilities by integrating Amazon Bedrock, a powerful Generative AI p..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-047",
+      "keyword_text": "Banking API modernization cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "AWS has recently enhanced its capabilities by integrating Amazon Bedrock, a powerful Generative AI p...",
+          "after": "AWS has recently enhanced its capabilities by integrating Amazon Bedrock, a powerful Generative AI p..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-048",
+      "keyword_text": "Financial services data analytics cloud implementation",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Focusing on the automation of content creation and scheduling for various events and announcements, ...",
+          "after": "Focusing on the automation of content creation and scheduling for various events and announcements, ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-049",
+      "keyword_text": "Insurance company cloud transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "AWS has recently enhanced its capabilities by integrating Amazon Bedrock, a powerful Generative AI p...",
+          "after": "AWS has recently enhanced its capabilities by integrating Amazon Bedrock, a powerful Generative AI p..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-050",
+      "keyword_text": "Financial services compliance automation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 2
+          },
+          "method": "extend-sentence",
+          "before": "Amazon Bedrock then generates content for announcements and approval emails, with drafts reviewed vi...",
+          "after": "Amazon Bedrock then generates content for announcements and approval emails, with drafts reviewed vi..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

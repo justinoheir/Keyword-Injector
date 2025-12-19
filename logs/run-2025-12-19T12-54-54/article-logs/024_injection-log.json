@@ -1,0 +1,93 @@
+{
+  "article_id": "024",
+  "article_title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.721247",
+  "metrics": {
+    "word_count_before": 598,
+    "word_count_after": 610,
+    "word_count_delta": 12,
+    "word_count_delta_pct": 2.01,
+    "sentences_modified": 3,
+    "sentences_total": 20,
+    "sentences_modified_pct": 15.0
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "The Challenge",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "The 50-person private software company in Toronto has focused on providing a web-based SaaS talent a...",
+          "after": "The 50-person private software company in Toronto has focused on providing a web-based SaaS talent a..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "The Challenge",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "The 50-person private software company in Toronto has focused on providing a web-based SaaS talent a...",
+          "after": "The 50-person private software company in Toronto has focused on providing a web-based SaaS talent a..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "The Challenge",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "However, as the volume of resumes keeps increasing and the job descriptions of the roles get more di...",
+          "after": "However, as the volume of resumes keeps increasing and the job descriptions of the roles get more di..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

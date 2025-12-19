@@ -1,0 +1,93 @@
+{
+  "article_id": "019",
+  "article_title": "Deep Learning-based SaaS Enablement on Google Cloud",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.672058",
+  "metrics": {
+    "word_count_before": 727,
+    "word_count_after": 745,
+    "word_count_delta": 18,
+    "word_count_delta_pct": 2.48,
+    "sentences_modified": 3,
+    "sentences_total": 26,
+    "sentences_modified_pct": 11.54
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Helping insurance and car companies transition from manual procedures to fast and efficient fact-bas...",
+          "after": "Helping insurance and car companies transition from manual procedures to fast and efficient fact-bas..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Helping insurance and car companies transition from manual procedures to fast and efficient fact-bas...",
+          "after": "Helping insurance and car companies transition from manual procedures to fast and efficient fact-bas..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "semantic-rewrite",
+          "before": "Helping insurance and car companies transition from manual procedures to fast and efficient fact-bas...",
+          "after": "Helping insurance and car companies transition from manual procedures to fast and efficient fact-bas..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

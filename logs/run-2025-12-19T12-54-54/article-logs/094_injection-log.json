@@ -1,0 +1,117 @@
+{
+  "article_id": "094",
+  "article_title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.452111",
+  "metrics": {
+    "word_count_before": 1826,
+    "word_count_after": 1859,
+    "word_count_delta": 33,
+    "word_count_delta_pct": 1.81,
+    "sentences_modified": 5,
+    "sentences_total": 64,
+    "sentences_modified_pct": 7.81
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru prides itself in heavy use of cloud-native technology, and Kubernetes is often the primary p...",
+          "after": "OpsGuru prides itself in heavy use of cloud-native technology, and Kubernetes is often the primary p..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru prides itself in heavy use of cloud-native technology, and Kubernetes is often the primary p...",
+          "after": "OpsGuru prides itself in heavy use of cloud-native technology, and Kubernetes is often the primary p..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Because of its flexibility and support on bare metal, virtual machines and across all major cloud pr...",
+          "after": "Because of its flexibility and support on bare metal, virtual machines and across all major cloud pr..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Because of its flexibility and support on bare metal, virtual machines and across all major cloud pr...",
+          "after": "Because of its flexibility and support on bare metal, virtual machines and across all major cloud pr..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Because of its flexibility and support on bare metal, virtual machines and across all major cloud pr...",
+          "after": "Because of its flexibility and support on bare metal, virtual machines and across all major cloud pr..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['can be used to limit']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

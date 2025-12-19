@@ -1,0 +1,95 @@
+{
+  "article_id": "081",
+  "article_title": "081",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.245159",
+  "metrics": {
+    "word_count_before": 971,
+    "word_count_after": 980,
+    "word_count_delta": 9,
+    "word_count_delta_pct": 0.93,
+    "sentences_modified": 3,
+    "sentences_total": 39,
+    "sentences_modified_pct": 7.69
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "a-new-way-to-manage-kubernetes-node\"\ntitle: \"Karpenter \\- A New Way to Manage Kubernetes Node Groups...",
+          "after": "a-new-way-to-manage-kubernetes-node\"\ntitle: \"Karpenter \\- A New Way to Manage Kubernetes Node Groups..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "a-new-way-to-manage-kubernetes-node\"\ntitle: \"Karpenter \\- A New Way to Manage Kubernetes Node Groups...",
+          "after": "a-new-way-to-manage-kubernetes-node\"\ntitle: \"Karpenter \\- A New Way to Manage Kubernetes Node Groups..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "a-new-way-to-manage-kubernetes-node\"\ntitle: \"Karpenter \\- A New Way to Manage Kubernetes Node Groups...",
+          "after": "a-new-way-to-manage-kubernetes-node\"\ntitle: \"Karpenter \\- A New Way to Manage Kubernetes Node Groups..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['## cluster autoscaler and karpenter', 'the cluster • kubernetes scheduler']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

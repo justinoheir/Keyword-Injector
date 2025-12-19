@@ -1,0 +1,104 @@
+{
+  "article_id": "091",
+  "article_title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.398406",
+  "metrics": {
+    "word_count_before": 816,
+    "word_count_after": 830,
+    "word_count_delta": 14,
+    "word_count_delta_pct": 1.72,
+    "sentences_modified": 4,
+    "sentences_total": 29,
+    "sentences_modified_pct": 13.79
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 2,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru, a leading cloud modernization consultancy, announces their partnership with House of Brick,...",
+          "after": "OpsGuru, a leading cloud modernization consultancy, announces their partnership with House of Brick,..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 2,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru, a leading cloud modernization consultancy, announces their partnership with House of Brick,...",
+          "after": "OpsGuru, a leading cloud modernization consultancy, announces their partnership with House of Brick,..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 5,
+            "sentence": 1
+          },
+          "method": "semantic-rewrite",
+          "before": "“With our partnership, customers will experience end-to-end cloud solutions and support options, whe...",
+          "after": "“With our partnership, customers will experience end-to-end cloud Clinical cloud solutions and suppo..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 2,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru, a leading cloud modernization consultancy, announces their partnership with House of Brick,...",
+          "after": "OpsGuru, a leading cloud modernization consultancy, announces their partnership with House of Brick,..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

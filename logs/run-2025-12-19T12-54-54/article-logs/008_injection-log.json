@@ -1,0 +1,117 @@
+{
+  "article_id": "008",
+  "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.595239",
+  "metrics": {
+    "word_count_before": 1140,
+    "word_count_after": 1159,
+    "word_count_delta": 19,
+    "word_count_delta_pct": 1.67,
+    "sentences_modified": 5,
+    "sentences_total": 46,
+    "sentences_modified_pct": 10.87
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Here at OpsGuru, we’ve achieved the AWS Service Delivery designation for Amazon Elastic Kubernetes S...",
+          "after": "Here at OpsGuru, we’ve achieved the AWS Service Delivery designation for Amazon Elastic Kubernetes S..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Here at OpsGuru, we’ve achieved the AWS Service Delivery designation for Amazon Elastic Kubernetes S...",
+          "after": "Here at OpsGuru, we’ve achieved the AWS Service Delivery designation for Amazon Elastic Kubernetes S..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['the current state of kubernetes']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

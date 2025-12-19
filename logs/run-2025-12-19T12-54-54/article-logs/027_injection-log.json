@@ -1,0 +1,104 @@
+{
+  "article_id": "027",
+  "article_title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.752388",
+  "metrics": {
+    "word_count_before": 1161,
+    "word_count_after": 1176,
+    "word_count_delta": 15,
+    "word_count_delta_pct": 1.29,
+    "sentences_modified": 4,
+    "sentences_total": 33,
+    "sentences_modified_pct": 12.12
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 2
+          },
+          "method": "extend-sentence",
+          "before": "This includes its Bulk Plus Logistics division, which offers businesses a way to outsource logistics...",
+          "after": "This includes its Bulk Plus Logistics division, which offers businesses a way to outsource logistics..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 2
+          },
+          "method": "extend-sentence",
+          "before": "This includes its Bulk Plus Logistics division, which offers businesses a way to outsource logistics...",
+          "after": "This includes its Bulk Plus Logistics division, which offers businesses a way to outsource logistics..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 2
+          },
+          "method": "extend-sentence",
+          "before": "This includes its Bulk Plus Logistics division, which offers businesses a way to outsource logistics...",
+          "after": "This includes its Bulk Plus Logistics division, which offers businesses a way to outsource logistics..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "The Challenge",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "To enable business expansion, Trimac’s strategy is to build secure foundations for its cloud infrast...",
+          "after": "To enable business expansion, Trimac’s strategy is to build secure foundations for its cloud infrast..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

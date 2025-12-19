@@ -1,0 +1,93 @@
+{
+  "article_id": "034",
+  "article_title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.822176",
+  "metrics": {
+    "word_count_before": 782,
+    "word_count_after": 794,
+    "word_count_delta": 12,
+    "word_count_delta_pct": 1.53,
+    "sentences_modified": 3,
+    "sentences_total": 29,
+    "sentences_modified_pct": 10.34
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "A provincial healthcare agency has a big mandate: broker healthcare and technology services to healt...",
+          "after": "A provincial healthcare agency has a big mandate: broker healthcare and technology services to healt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "A provincial healthcare agency has a big mandate: broker healthcare and technology services to healt...",
+          "after": "A provincial healthcare agency has a big mandate: broker healthcare and technology services to healt..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Background",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "As the primary healthcare authority in the province, the organization’s mandate is to coordinate reg...",
+          "after": "As the primary healthcare authority in the province, the organization’s mandate is to coordinate reg..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

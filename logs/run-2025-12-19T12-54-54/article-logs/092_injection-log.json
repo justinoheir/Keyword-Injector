@@ -1,0 +1,82 @@
+{
+  "article_id": "092",
+  "article_title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.405473",
+  "metrics": {
+    "word_count_before": 302,
+    "word_count_after": 309,
+    "word_count_delta": 7,
+    "word_count_delta_pct": 2.32,
+    "sentences_modified": 2,
+    "sentences_total": 16,
+    "sentences_modified_pct": 12.5
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "A few weeks ago, we announced the exciting news that OpsGuru has been awarded the inaugurating AWS S...",
+          "after": "A few weeks ago, we announced the exciting news that OpsGuru has been awarded the inaugurating AWS S..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "A few weeks ago, we announced the exciting news that OpsGuru has been awarded the inaugurating AWS S...",
+          "after": "A few weeks ago, we announced the exciting news that OpsGuru has been awarded the inaugurating AWS S..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

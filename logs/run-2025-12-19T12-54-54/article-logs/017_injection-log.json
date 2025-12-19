@@ -1,0 +1,104 @@
+{
+  "article_id": "017",
+  "article_title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.647961",
+  "metrics": {
+    "word_count_before": 502,
+    "word_count_after": 518,
+    "word_count_delta": 16,
+    "word_count_delta_pct": 3.19,
+    "sentences_modified": 4,
+    "sentences_total": 33,
+    "sentences_modified_pct": 12.12
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 3
+          },
+          "method": "extend-sentence",
+          "before": "This guide provides a strategic roadmap for effectively leveraging AI.",
+          "after": "This guide provides a strategic roadmap for effectively leveraging AI through Financial services Dev..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 3
+          },
+          "method": "extend-sentence",
+          "before": "This guide provides a strategic roadmap for effectively leveraging AI through Financial services Dev...",
+          "after": "This guide provides a strategic roadmap for effectively leveraging AI through Financial services Dev..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 10,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Focusing on these questions will help you identify the highest-impact AI opportunities",
+          "after": "Focusing on these questions will help you identify the highest-impact AI opportunities with Financia..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 3
+          },
+          "method": "extend-sentence",
+          "before": "This guide provides a strategic roadmap for effectively leveraging AI through Financial services Dev...",
+          "after": "This guide provides a strategic roadmap for effectively leveraging AI through Financial services Dev..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

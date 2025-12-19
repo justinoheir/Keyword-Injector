@@ -1,0 +1,104 @@
+{
+  "article_id": "049",
+  "article_title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.918634",
+  "metrics": {
+    "word_count_before": 810,
+    "word_count_after": 836,
+    "word_count_delta": 26,
+    "word_count_delta_pct": 3.21,
+    "sentences_modified": 4,
+    "sentences_total": 33,
+    "sentences_modified_pct": 12.12
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Are you looking to innovate your small or medium business in the cloud",
+          "after": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ...",
+          "after": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ...",
+          "after": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ...",
+          "after": "Are you looking to innovate your small or medium business in the cloud with Clinical workflow cloud ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

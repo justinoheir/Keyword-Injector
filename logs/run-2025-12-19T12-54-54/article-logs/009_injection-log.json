@@ -1,0 +1,117 @@
+{
+  "article_id": "009",
+  "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.604286",
+  "metrics": {
+    "word_count_before": 1129,
+    "word_count_after": 1147,
+    "word_count_delta": 18,
+    "word_count_delta_pct": 1.59,
+    "sentences_modified": 5,
+    "sentences_total": 46,
+    "sentences_modified_pct": 10.87
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "When it comes to orchestrating containerized workloads, there are several options in the market, wit...",
+          "after": "When it comes to orchestrating containerized workloads, there are several options in the market, wit..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    "repeated_phrases: ['the current state of kubernetes']"
+  ],
+  "validation_status": "failed",
+  "human_review_required": true
+}

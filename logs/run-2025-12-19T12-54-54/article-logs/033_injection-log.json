@@ -1,0 +1,104 @@
+{
+  "article_id": "033",
+  "article_title": "Grow Your Business with Generative AI",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.816146",
+  "metrics": {
+    "word_count_before": 643,
+    "word_count_after": 659,
+    "word_count_delta": 16,
+    "word_count_delta_pct": 2.49,
+    "sentences_modified": 4,
+    "sentences_total": 31,
+    "sentences_modified_pct": 12.9
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Revolutionizing Customer Experience with Generative AI",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Chatbot on websites is a common feature to engage customers and provide support",
+          "after": "Chatbot on websites is a common feature to engage customers and provide support with Financial servi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Revolutionizing Customer Experience with Generative AI",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Chatbot on websites is a common feature to engage customers and provide support with Financial servi...",
+          "after": "Chatbot on websites is a common feature to engage customers and provide support with Financial servi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Taking Customer Support to New Levels with GenAI-based Chatbots",
+            "paragraph": 0,
+            "sentence": 2
+          },
+          "method": "extend-sentence",
+          "before": "A GenAI-based assistant can offer the prompt feedback that customers need while freeing up resources...",
+          "after": "A GenAI-based assistant can offer the prompt feedback that customers need while freeing up resources..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Revolutionizing Customer Experience with Generative AI",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Chatbot on websites is a common feature to engage customers and provide support with Financial servi...",
+          "after": "Chatbot on websites is a common feature to engage customers and provide support with Financial servi..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

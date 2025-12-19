@@ -1,0 +1,71 @@
+{
+  "article_id": "089",
+  "article_title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.372070",
+  "metrics": {
+    "word_count_before": 378,
+    "word_count_after": 384,
+    "word_count_delta": 6,
+    "word_count_delta_pct": 1.59,
+    "sentences_modified": 1,
+    "sentences_total": 12,
+    "sentences_modified_pct": 8.33
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 1,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru recognized as Canada’s leader in AWS cloud solutions, with world-class AWS Premier Partner S...",
+          "after": "OpsGuru recognized as Canada’s leader in AWS cloud solutions, with world-class AWS Premier Partner S..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

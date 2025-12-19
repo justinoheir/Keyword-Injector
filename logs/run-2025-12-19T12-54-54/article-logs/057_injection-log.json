@@ -1,0 +1,104 @@
+{
+  "article_id": "057",
+  "article_title": "5 Key Steps for a Successful AWS Cloud Migration",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.980886",
+  "metrics": {
+    "word_count_before": 701,
+    "word_count_after": 725,
+    "word_count_delta": 24,
+    "word_count_delta_pct": 3.42,
+    "sentences_modified": 4,
+    "sentences_total": 31,
+    "sentences_modified_pct": 12.9
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra...",
+          "after": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra...",
+          "after": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra...",
+          "after": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra...",
+          "after": "Did you know that migrating to Amazon Web Services (AWS) results in an average 62% increase in infra..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

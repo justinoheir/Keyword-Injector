@@ -1,0 +1,104 @@
+{
+  "article_id": "086",
+  "article_title": "086",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.346877",
+  "metrics": {
+    "word_count_before": 2024,
+    "word_count_after": 2037,
+    "word_count_delta": 13,
+    "word_count_delta_pct": 0.64,
+    "sentences_modified": 4,
+    "sentences_total": 76,
+    "sentences_modified_pct": 5.26
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c...",
+          "after": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c...",
+          "after": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "injection_failed_after_attempts"
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c...",
+          "after": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "semantic-rewrite",
+          "before": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c...",
+          "after": "part\"\ntitle: \"OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake\"\nword_c..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

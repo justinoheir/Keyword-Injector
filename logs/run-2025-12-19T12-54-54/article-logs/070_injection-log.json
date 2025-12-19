@@ -1,0 +1,82 @@
+{
+  "article_id": "070",
+  "article_title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.049331",
+  "metrics": {
+    "word_count_before": 395,
+    "word_count_after": 402,
+    "word_count_delta": 7,
+    "word_count_delta_pct": 1.77,
+    "sentences_modified": 2,
+    "sentences_total": 19,
+    "sentences_modified_pct": 10.53
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "The Challenge",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Such sensitive business data is stored in the different ERP systems across the different regions",
+          "after": "Such sensitive business data is stored in the different ERP systems across the different regions wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "The Challenge",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "Such sensitive business data is stored in the different ERP systems across the different regions wit...",
+          "after": "Such sensitive business data is stored in the different ERP systems across the different regions wit..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

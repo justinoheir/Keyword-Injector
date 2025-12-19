@@ -1,0 +1,93 @@
+{
+  "article_id": "047",
+  "article_title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.904038",
+  "metrics": {
+    "word_count_before": 403,
+    "word_count_after": 414,
+    "word_count_delta": 11,
+    "word_count_delta_pct": 2.73,
+    "sentences_modified": 3,
+    "sentences_total": 20,
+    "sentences_modified_pct": 15.0
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Company Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This financial technology company specializes in providing core banking solutions",
+          "after": "This financial technology company specializes in providing core banking solutions through HIPAA clou..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Company Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This financial technology company specializes in providing core banking solutions through HIPAA clou...",
+          "after": "This financial technology company specializes in providing core banking solutions through HIPAA clou..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Company Background",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "This financial technology company specializes in providing core banking solutions through HIPAA clou...",
+          "after": "This financial technology company specializes in providing core banking solutions through HIPAA clou..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

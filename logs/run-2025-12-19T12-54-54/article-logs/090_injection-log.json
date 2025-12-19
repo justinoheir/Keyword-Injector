@@ -1,0 +1,93 @@
+{
+  "article_id": "090",
+  "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:55.383306",
+  "metrics": {
+    "word_count_before": 557,
+    "word_count_after": 568,
+    "word_count_delta": 11,
+    "word_count_delta_pct": 1.97,
+    "sentences_modified": 3,
+    "sentences_total": 24,
+    "sentences_modified_pct": 12.5
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "OpsGuru an AWS SaaS Competency Launch Partner",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "We are also honoured to be the only Canadian Launch Partner of the AWS SaaS Competency.*",
+          "after": "We are also honoured to be the only Canadian Launch Partner of the AWS SaaS Competency.* with Financ..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "OpsGuru an AWS SaaS Competency Launch Partner",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "*Today OpsGuru announces that we have achieved the Amazon Web Services (AWS) SaaS Competency",
+          "after": "*Today OpsGuru announces that we have achieved the Amazon Web Services (AWS) SaaS Competency through..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "OpsGuru an AWS SaaS Competency Launch Partner",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "*Today OpsGuru announces that we have achieved the Amazon Web Services (AWS) SaaS Competency through...",
+          "after": "*Today OpsGuru announces that we have achieved the Amazon Web Services (AWS) SaaS Competency through..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

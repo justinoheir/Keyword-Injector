@@ -1,0 +1,115 @@
+{
+  "article_id": "031",
+  "article_title": "Demystifying AI Agents: 6 Types and Characteristics",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.797176",
+  "metrics": {
+    "word_count_before": 1650,
+    "word_count_after": 1683,
+    "word_count_delta": 33,
+    "word_count_delta_pct": 2.0,
+    "sentences_modified": 5,
+    "sentences_total": 89,
+    "sentences_modified_pct": 5.62
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "They are a powerful tool that offers enhanced efficiency, improved decision-making, personalized exp...",
+          "after": "They are a powerful tool that offers enhanced efficiency, improved decision-making, personalized exp..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 4,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "They are a powerful tool that offers enhanced efficiency, improved decision-making, personalized exp...",
+          "after": "They are a powerful tool that offers enhanced efficiency, improved decision-making, personalized exp..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "What are AI Agents?",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "At one end of the spectrum are simple reflex agents: rule-based systems built for automation and pre...",
+          "after": "At one end of the spectrum are simple reflex agents: rule-based systems built for automation and pre..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "What are AI Agents?",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "At one end of the spectrum are simple reflex agents: rule-based systems built for automation and pre...",
+          "after": "At one end of the spectrum are simple reflex agents: rule-based systems built for automation and pre..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "What are AI Agents?",
+            "paragraph": 0,
+            "sentence": 1
+          },
+          "method": "extend-sentence",
+          "before": "At one end of the spectrum are simple reflex agents: rule-based systems built for automation and pre...",
+          "after": "At one end of the spectrum are simple reflex agents: rule-based systems built for automation and pre..."
+        }
+      ]
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

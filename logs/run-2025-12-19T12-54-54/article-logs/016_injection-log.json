@@ -1,0 +1,71 @@
+{
+  "article_id": "016",
+  "article_title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+  "run_id": "run-2025-12-19T12-54-54",
+  "timestamp": "2025-12-19T12:54:54.641239",
+  "metrics": {
+    "word_count_before": 150,
+    "word_count_after": 157,
+    "word_count_delta": 7,
+    "word_count_delta_pct": 4.67,
+    "sentences_modified": 1,
+    "sentences_total": 6,
+    "sentences_modified_pct": 16.67
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 2
+          },
+          "method": "extend-sentence",
+          "before": "As an organization that’s helped handle these challenges head-on, OpsGuru understands the undeniable...",
+          "after": "As an organization that’s helped handle these challenges head-on, OpsGuru understands the undeniable..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

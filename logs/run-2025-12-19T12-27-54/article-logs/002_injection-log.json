@@ -1,0 +1,71 @@
+{
+  "article_id": "002",
+  "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+  "run_id": "run-2025-12-19T12-27-54",
+  "timestamp": "2025-12-19T12:27:54.490439",
+  "metrics": {
+    "word_count_before": 342,
+    "word_count_after": 346,
+    "word_count_delta": 4,
+    "word_count_delta_pct": 1.17,
+    "sentences_modified": 1,
+    "sentences_total": 10,
+    "sentences_modified_pct": 10.0
+  },
+  "keywords_attempted": [
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "action": "inserted",
+      "occurrences_before": 0,
+      "occurrences_after": 1,
+      "placements": [
+        {
+          "location": {
+            "section": "Introduction",
+            "paragraph": 0,
+            "sentence": 0
+          },
+          "method": "extend-sentence",
+          "before": "OpsGuru announced today that it has achieved the Amazon Web Service (AWS) Service Delivery designati...",
+          "after": "OpsGuru announced today that it has achieved the Amazon Web Service (AWS) Service Delivery designati..."
+        }
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "action": "skipped",
+      "occurrences_before": 0,
+      "occurrences_after": 0,
+      "skip_reason": "modification_limit_reached"
+    }
+  ],
+  "quality_flags": [],
+  "validation_status": "passed",
+  "human_review_required": false
+}

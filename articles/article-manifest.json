@@ -1,0 +1,1656 @@
+{
+  "extraction_date": "2025-12-19",
+  "source_file": "OpsGuru_Blog_consolidated.md",
+  "total_articles": 98,
+  "articles": [
+    {
+      "id": "001",
+      "slug": "opsguru-announces-expansion-to-central-and",
+      "title": "OpsGuru Announces Expansion to Central and Eastern Canada and Welcomes Adam Chandani as VP, Sales",
+      "filename": "001_opsguru-announces-expansion-to-central-and.md",
+      "word_count": 500,
+      "themes": [
+        "company-news",
+        "gcp",
+        "cloud-consulting",
+        "genai",
+        "devops",
+        "migration",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "002",
+      "slug": "opsguru-achieves-the-aws-service-delivery",
+      "title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+      "filename": "002_opsguru-achieves-the-aws-service-delivery.md",
+      "word_count": 346,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "case-study",
+        "genai",
+        "migration",
+        "kubernetes",
+        "aws",
+        "containers"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "003",
+      "slug": "opsguru-achieves-the-aws-service-delivery",
+      "title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+      "filename": "003_opsguru-achieves-the-aws-service-delivery.md",
+      "word_count": 261,
+      "themes": [
+        "data-analytics",
+        "company-news",
+        "cloud-consulting",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "004",
+      "slug": "kubernetes-workloads-migration-from-azure-aks-to",
+      "title": "Kubernetes workloads migration from Azure AKS to Amazon EKS",
+      "filename": "004_kubernetes-workloads-migration-from-azure-aks-to.md",
+      "word_count": 557,
+      "themes": [
+        "terraform",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "azure",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "005",
+      "slug": "automate-deployment-to-aws-with-github-actions",
+      "title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+      "filename": "005_automate-deployment-to-aws-with-github-actions.md",
+      "word_count": 1136,
+      "themes": [
+        "genai",
+        "tutorial",
+        "devops",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "006",
+      "slug": "opsguru-awarded-2023-canadian-aws-partner-award",
+      "title": "OpsGuru Awarded 2023 Canadian AWS Partner Award",
+      "filename": "006_opsguru-awarded-2023-canadian-aws-partner-award.md",
+      "word_count": 373,
+      "themes": [
+        "data-analytics",
+        "cloud-consulting",
+        "genai",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "007",
+      "slug": "the-state-of-kubernetes-in-aws-persistent-data",
+      "title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "filename": "007_the-state-of-kubernetes-in-aws-persistent-data.md",
+      "word_count": 1139,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "008",
+      "slug": "the-state-of-kubernetes-in-aws-persistent-data",
+      "title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "filename": "008_the-state-of-kubernetes-in-aws-persistent-data.md",
+      "word_count": 1151,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "009",
+      "slug": "the-state-of-kubernetes-in-aws-persistent-data",
+      "title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "filename": "009_the-state-of-kubernetes-in-aws-persistent-data.md",
+      "word_count": 1139,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "010",
+      "slug": "the-current-state-of-kubernetes-on-aws-kubernetes",
+      "title": "The Current State of Kubernetes on AWS: Kubernetes Security, Scalability, Performance Engineering & More, Part 2",
+      "filename": "010_the-current-state-of-kubernetes-on-aws-kubernetes.md",
+      "word_count": 1109,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "011",
+      "slug": "opsguru-an-aws-saas-competency-launch-partner",
+      "title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "filename": "011_opsguru-an-aws-saas-competency-launch-partner.md",
+      "word_count": 525,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "012",
+      "slug": "opsguru-achieves-the-aws-resilience-competency",
+      "title": "OpsGuru Achieves the AWS Resilience Competency",
+      "filename": "012_opsguru-achieves-the-aws-resilience-competency.md",
+      "word_count": 452,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "013",
+      "slug": "opsguru-expands-capabilities-to-help-canadian",
+      "title": "OpsGuru Expands Capabilities to Help Canadian Companies Accelerate Digital Transformation Through Strategic Collaboration Agreement With AWS",
+      "filename": "013_opsguru-expands-capabilities-to-help-canadian.md",
+      "word_count": 371,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "014",
+      "slug": "building-the-business-case-for-aws-migration",
+      "title": "Building the Business Case for AWS Migration",
+      "filename": "014_building-the-business-case-for-aws-migration.md",
+      "word_count": 155,
+      "themes": [
+        "migration",
+        "cloud-consulting",
+        "case-study",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "015",
+      "slug": "a-leading-engagement-platforms-journey-to-the",
+      "title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+      "filename": "015_a-leading-engagement-platforms-journey-to-the.md",
+      "word_count": 300,
+      "themes": [
+        "terraform",
+        "case-study",
+        "genai",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "016",
+      "slug": "cloud-migration-in-the-public-sector-6-key-steps",
+      "title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+      "filename": "016_cloud-migration-in-the-public-sector-6-key-steps.md",
+      "word_count": 150,
+      "themes": [
+        "migration",
+        "genai",
+        "security",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "017",
+      "slug": "conquer-2025-with-ai-a-practical-guide-for",
+      "title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+      "filename": "017_conquer-2025-with-ai-a-practical-guide-for.md",
+      "word_count": 514,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "serverless",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "018",
+      "slug": "bosa-development-quickly-gains-benefits-of-the",
+      "title": "Bosa Development Quickly Gains Benefits of the Cloud with “Lift-and-Shift First” Migration Strategy",
+      "filename": "018_bosa-development-quickly-gains-benefits-of-the.md",
+      "word_count": 859,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "019",
+      "slug": "deep-learning-based-saas-enablement-on-google",
+      "title": "Deep Learning-based SaaS Enablement on Google Cloud",
+      "filename": "019_deep-learning-based-saas-enablement-on-google.md",
+      "word_count": 753,
+      "themes": [
+        "gcp",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "020",
+      "slug": "cocoflo-drives-the-smart-city-movement-forward",
+      "title": "Cocoflo Drives the SMART City Movement Forward with the Deployment of AWS Microservices",
+      "filename": "020_cocoflo-drives-the-smart-city-movement-forward.md",
+      "word_count": 642,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "kubernetes",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "021",
+      "slug": "edsembli-accelerates-modernization-and-business",
+      "title": "Edsembli Accelerates Modernization and Business Growth with OpsGuru",
+      "filename": "021_edsembli-accelerates-modernization-and-business.md",
+      "word_count": 1326,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "022",
+      "slug": "pandemic-proof-food-delivery-with-foodx",
+      "title": "Pandemic Proof Food Delivery with FoodX",
+      "filename": "022_pandemic-proof-food-delivery-with-foodx.md",
+      "word_count": 432,
+      "themes": [
+        "case-study",
+        "data-analytics",
+        "genai",
+        "devops",
+        "azure"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "023",
+      "slug": "optimizing-travel-industry-platforms-with-fornova",
+      "title": "Optimizing Travel Industry Platforms with Fornova",
+      "filename": "023_optimizing-travel-industry-platforms-with-fornova.md",
+      "word_count": 476,
+      "themes": [
+        "terraform",
+        "gcp",
+        "cloud-consulting",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "024",
+      "slug": "how-gen-ai-improves-accuracy-by-20-at-a-talent",
+      "title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+      "filename": "024_how-gen-ai-improves-accuracy-by-20-at-a-talent.md",
+      "word_count": 601,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "025",
+      "slug": "brewing-business-success-opsguru-leads-aws",
+      "title": "Brewing Business Success: OpsGuru Leads AWS Migration for Global Distributor",
+      "filename": "025_brewing-business-success-opsguru-leads-aws.md",
+      "word_count": 978,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "026",
+      "slug": "opsguru-customer-success-story-empowering-numeris",
+      "title": "OpsGuru Customer Success Story: Empowering Numeris on the Cloud Journey",
+      "filename": "026_opsguru-customer-success-story-empowering-numeris.md",
+      "word_count": 442,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "027",
+      "slug": "trimac-accelerates-business-expansion-by-fast",
+      "title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+      "filename": "027_trimac-accelerates-business-expansion-by-fast.md",
+      "word_count": 1184,
+      "themes": [
+        "terraform",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "azure",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "028",
+      "slug": "geographical-cloud-platform-expansion-with-uncoil",
+      "title": "Geographical Cloud Platform Expansion with Uncoil",
+      "filename": "028_geographical-cloud-platform-expansion-with-uncoil.md",
+      "word_count": 479,
+      "themes": [
+        "gcp",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "029",
+      "slug": "when-isolation-and-silos-are-good-data-stores-in",
+      "title": "When Isolation and Silos are good: Data stores in a multi-tenant solution",
+      "filename": "029_when-isolation-and-silos-are-good-data-stores-in.md",
+      "word_count": 1772,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "genai",
+        "kubernetes",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "030",
+      "slug": "deepseek-the-ai-game-changer-and-how-to-use-it-on",
+      "title": "DeepSeek: The AI Game Changer and How to Use It on AWS",
+      "filename": "030_deepseek-the-ai-game-changer-and-how-to-use-it-on.md",
+      "word_count": 685,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "031",
+      "slug": "demystifying-ai-agents-6-types-and-characteristics",
+      "title": "Demystifying AI Agents: 6 Types and Characteristics",
+      "filename": "031_demystifying-ai-agents-6-types-and-characteristics.md",
+      "word_count": 1677,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "serverless",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "032",
+      "slug": "enhancing-container-security-in-the-cicd-pipeline",
+      "title": "Enhancing Container Security in the CI/CD Pipeline with Amazon Inspector",
+      "filename": "032_enhancing-container-security-in-the-cicd-pipeline.md",
+      "word_count": 1355,
+      "themes": [
+        "genai",
+        "devops",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "033",
+      "slug": "grow-your-business-with-generative-ai",
+      "title": "Grow Your Business with Generative AI",
+      "filename": "033_grow-your-business-with-generative-ai.md",
+      "word_count": 649,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "034",
+      "slug": "healthcare-agency-builds-a-strong-cloud",
+      "title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+      "filename": "034_healthcare-agency-builds-a-strong-cloud.md",
+      "word_count": 785,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "035",
+      "slug": "infrastructure-as-code-and-continuous-delivery",
+      "title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+      "filename": "035_infrastructure-as-code-and-continuous-delivery.md",
+      "word_count": 902,
+      "themes": [
+        "devops",
+        "terraform",
+        "data-analytics"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "036",
+      "slug": "lessons-from-howls-moving-castle-defense-through",
+      "title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+      "filename": "036_lessons-from-howls-moving-castle-defense-through.md",
+      "word_count": 928,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "037",
+      "slug": "delivering-limitless-live-video-for-todays-needs",
+      "title": "Delivering Limitless Live Video for Today’s Needs with LiveSwitch",
+      "filename": "037_delivering-limitless-live-video-for-todays-needs.md",
+      "word_count": 999,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "migration",
+        "kubernetes",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "038",
+      "slug": "make-knowledge-sharing-effective-with-amazon-q",
+      "title": "Make Knowledge Sharing Effective with Amazon Q Business",
+      "filename": "038_make-knowledge-sharing-effective-with-amazon-q.md",
+      "word_count": 1078,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "039",
+      "slug": "official-announcement-appointment-of-new-chief",
+      "title": "Official Announcement: Appointment of New Chief Executive Officer",
+      "filename": "039_official-announcement-appointment-of-new-chief.md",
+      "word_count": 182,
+      "themes": [
+        "company-news",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "040",
+      "slug": "opsguru-achieves-aws-migration-competency",
+      "title": "OpsGuru Achieves AWS Migration Competency",
+      "filename": "040_opsguru-achieves-aws-migration-competency.md",
+      "word_count": 461,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "genai",
+        "tutorial",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "041",
+      "slug": "opsguru-achieves-the-aws-small-and-medium",
+      "title": "OpsGuru Achieves the AWS Small and Medium Business Competency",
+      "filename": "041_opsguru-achieves-the-aws-small-and-medium.md",
+      "word_count": 450,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "042",
+      "slug": "opsguru-acquired-by-carbon60-establishing-an-end",
+      "title": "OpsGuru acquired by Carbon60, establishing an end-to-end Canadian Cloud Partner.",
+      "filename": "042_opsguru-acquired-by-carbon60-establishing-an-end.md",
+      "word_count": 465,
+      "themes": [
+        "company-news",
+        "gcp",
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "migration",
+        "kubernetes",
+        "azure",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "043",
+      "slug": "aws-hero-denis-astahov-brings-commitment-to",
+      "title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+      "filename": "043_aws-hero-denis-astahov-brings-commitment-to.md",
+      "word_count": 968,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "genai",
+        "tutorial",
+        "devops",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "044",
+      "slug": "opsguru-named-2024-aws-canada-regional-partner-of",
+      "title": "OpsGuru Named 2024 AWS Canada Regional Partner of the Year",
+      "filename": "044_opsguru-named-2024-aws-canada-regional-partner-of.md",
+      "word_count": 160,
+      "themes": [
+        "company-news",
+        "genai",
+        "cloud-consulting",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "045",
+      "slug": "opsguru-joining-foodx-led-consortium-on-food",
+      "title": "OpsGuru joining FoodX-led Consortium on Food Logistics Innovations",
+      "filename": "045_opsguru-joining-foodx-led-consortium-on-food.md",
+      "word_count": 355,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "migration",
+        "kubernetes",
+        "azure"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "046",
+      "slug": "opsguru-pioneers-launch-of-professional-services",
+      "title": "OpsGuru Pioneers Launch of Professional Services within the AWS Marketplace",
+      "filename": "046_opsguru-pioneers-launch-of-professional-services.md",
+      "word_count": 205,
+      "themes": [
+        "company-news",
+        "genai",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "047",
+      "slug": "financial-technology-company-partners-with",
+      "title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+      "filename": "047_financial-technology-company-partners-with.md",
+      "word_count": 404,
+      "themes": [
+        "cloud-consulting",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "048",
+      "slug": "how-to-transform-your-public-sector-organization",
+      "title": "How to Transform Your Public Sector Organization with Cloud Adoption",
+      "filename": "048_how-to-transform-your-public-sector-organization.md",
+      "word_count": 765,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "049",
+      "slug": "how-to-streamline-accelerate-your-smb-cloud",
+      "title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+      "filename": "049_how-to-streamline-accelerate-your-smb-cloud.md",
+      "word_count": 823,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "050",
+      "slug": "top-10-misconceptions-around-migrating-hadoop-to",
+      "title": "Top 10 Misconceptions around Migrating Hadoop to the Cloud",
+      "filename": "050_top-10-misconceptions-around-migrating-hadoop-to.md",
+      "word_count": 1621,
+      "themes": [
+        "terraform",
+        "gcp",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "migration",
+        "azure",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "051",
+      "slug": "transforming-asset-management-a-journey-to-a",
+      "title": "Transforming Asset Management: A Journey to a Centralized 3D Content Management Platform",
+      "filename": "051_transforming-asset-management-a-journey-to-a.md",
+      "word_count": 371,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "serverless",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "052",
+      "slug": "what-does-a-service-mesh-do-part-2",
+      "title": "What does a Service Mesh do? (Part 2\\)",
+      "filename": "052_what-does-a-service-mesh-do-part-2.md",
+      "word_count": 1609,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "053",
+      "slug": "strategies-for-aws-cost-optimization-in-2025",
+      "title": "Strategies for AWS Cost Optimization in 2025",
+      "filename": "053_strategies-for-aws-cost-optimization-in-2025.md",
+      "word_count": 1107,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "migration",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "054",
+      "slug": "portfolio-accelerating-the-pace-of-innovation",
+      "title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+      "filename": "054_portfolio-accelerating-the-pace-of-innovation.md",
+      "word_count": 1212,
+      "themes": [
+        "terraform",
+        "cloud-consulting",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "055",
+      "slug": "opsguru-achieves-amazon-api-gateway-service",
+      "title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+      "filename": "055_opsguru-achieves-amazon-api-gateway-service.md",
+      "word_count": 233,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "serverless",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "056",
+      "slug": "opsguru-achieves-the-aws-lambda-service-delivery",
+      "title": "OpsGuru Achieves the AWS Lambda Service Delivery Designation",
+      "filename": "056_opsguru-achieves-the-aws-lambda-service-delivery.md",
+      "word_count": 280,
+      "themes": [
+        "company-news",
+        "devops",
+        "migration",
+        "kubernetes",
+        "serverless",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "057",
+      "slug": "5-key-steps-for-a-successful-aws-cloud-migration",
+      "title": "5 Key Steps for a Successful AWS Cloud Migration",
+      "filename": "057_5-key-steps-for-a-successful-aws-cloud-migration.md",
+      "word_count": 699,
+      "themes": [
+        "cloud-consulting",
+        "case-study",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "migration",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "058",
+      "slug": "opsguru-awarded-aws-canada-consulting-partner-of",
+      "title": "OpsGuru Awarded AWS Canada Consulting Partner of the Year",
+      "filename": "058_opsguru-awarded-aws-canada-consulting-partner-of.md",
+      "word_count": 344,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "059",
+      "slug": "opsguru-awarded-aws-canadas-migration",
+      "title": "OpsGuru Awarded AWS Canada’s Migration & Modernization Partner of the Year",
+      "filename": "059_opsguru-awarded-aws-canadas-migration.md",
+      "word_count": 331,
+      "themes": [
+        "cloud-consulting",
+        "case-study",
+        "genai",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "060",
+      "slug": "aws-transfer-family-service-delivery-launch",
+      "title": "AWS Transfer Family Service Delivery Launch Partner",
+      "filename": "060_aws-transfer-family-service-delivery-launch.md",
+      "word_count": 379,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "061",
+      "slug": "building-a-saas-offering-on-aws",
+      "title": "Building a SaaS Offering on AWS",
+      "filename": "061_building-a-saas-offering-on-aws.md",
+      "word_count": 107,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "062",
+      "slug": "pitfalls-to-avoid-in-cloud-adoption-ineffective",
+      "title": "Pitfalls to Avoid in Cloud Adoption: Ineffective KPIs",
+      "filename": "062_pitfalls-to-avoid-in-cloud-adoption-ineffective.md",
+      "word_count": 408,
+      "themes": [
+        "migration",
+        "genai"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "063",
+      "slug": "pitfalls-to-avoid-in-cloud-adoption-spiralling",
+      "title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+      "filename": "063_pitfalls-to-avoid-in-cloud-adoption-spiralling.md",
+      "word_count": 548,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "064",
+      "slug": "opsguru-and-alida-partner-to-migrate-data-to-aws",
+      "title": "OpsGuru and Alida Partner to Migrate Data to AWS Cloud for Scalability and Faster Performance",
+      "filename": "064_opsguru-and-alida-partner-to-migrate-data-to-aws.md",
+      "word_count": 1057,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "migration",
+        "kubernetes",
+        "aws",
+        "containers"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "065",
+      "slug": "how-alida-is-leading-research-innovation-with",
+      "title": "How Alida is Leading Research Innovation with OpsGuru’s GenAI Guidance",
+      "filename": "065_how-alida-is-leading-research-innovation-with.md",
+      "word_count": 1194,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "066",
+      "slug": "hipaa-compliant-genomics-platform-with-emedgene",
+      "title": "HIPAA Compliant Genomics Platform with Emedgene",
+      "filename": "066_hipaa-compliant-genomics-platform-with-emedgene.md",
+      "word_count": 470,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "migration",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "067",
+      "slug": "kubernetes-development-environment-for-ml-in",
+      "title": "Kubernetes Development Environment for ML in Amazon EKS",
+      "filename": "067_kubernetes-development-environment-for-ml-in.md",
+      "word_count": 603,
+      "themes": [
+        "terraform",
+        "gcp",
+        "case-study",
+        "genai",
+        "devops",
+        "kubernetes",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "068",
+      "slug": "connecting-women-to-essential-healthcare-with-nivi",
+      "title": "Connecting Women to Essential Healthcare with Nivi",
+      "filename": "068_connecting-women-to-essential-healthcare-with-nivi.md",
+      "word_count": 736,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "serverless",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "069",
+      "slug": "automating-optimizing-best-candidate-hiring",
+      "title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+      "filename": "069_automating-optimizing-best-candidate-hiring.md",
+      "word_count": 742,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "070",
+      "slug": "opsguru-helps-design-implement-and-operate-a",
+      "title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+      "filename": "070_opsguru-helps-design-implement-and-operate-a.md",
+      "word_count": 398,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "serverless",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "071",
+      "slug": "soc2-compliant-aws-platform-with-rival",
+      "title": "SOC2 Compliant AWS Platform with Rival Technologies",
+      "filename": "071_soc2-compliant-aws-platform-with-rival.md",
+      "word_count": 258,
+      "themes": [
+        "case-study",
+        "genai",
+        "devops",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "072",
+      "slug": "scaling-travel-insurance-platforms-with-setoo",
+      "title": "Scaling Travel Insurance Platforms with Setoo",
+      "filename": "072_scaling-travel-insurance-platforms-with-setoo.md",
+      "word_count": 1271,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "073",
+      "slug": "data-sovereignty-in-canada-implications-for-cloud",
+      "title": "Data Sovereignty in Canada: Implications for Cloud Services",
+      "filename": "073_data-sovereignty-in-canada-implications-for-cloud.md",
+      "word_count": 768,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "azure",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "074",
+      "slug": "does-your-organization-need-a-service-mesh-part-1",
+      "title": "Does Your Organization Need a Service Mesh? (Part 1\\)",
+      "filename": "074_does-your-organization-need-a-service-mesh-part-1.md",
+      "word_count": 470,
+      "themes": [
+        "kubernetes",
+        "genai",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "075",
+      "slug": "from-ai-agents-to-agentic-ai-an-exploration-into",
+      "title": "From AI Agents to Agentic AI: An Exploration into Autonomous Systems",
+      "filename": "075_from-ai-agents-to-agentic-ai-an-exploration-into.md",
+      "word_count": 1352,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "kubernetes",
+        "serverless",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "076",
+      "slug": "supercharging-customer-experiences-using-genai",
+      "title": "Supercharging Customer Experiences Using GenAI and Knowledge Bases For Amazon Bedrock",
+      "filename": "076_supercharging-customer-experiences-using-genai.md",
+      "word_count": 928,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "serverless",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "077",
+      "slug": "generative-ai-for-business-how-amazon-q-business",
+      "title": "Generative AI for Business: How Amazon Q Business Delivers 10x ROI",
+      "filename": "077_generative-ai-for-business-how-amazon-q-business.md",
+      "word_count": 1364,
+      "themes": [
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "078",
+      "slug": "gitops---the-growing-landscape-of-tools",
+      "title": "GitOps \\- The Growing Landscape of Tools",
+      "filename": "078_gitops---the-growing-landscape-of-tools.md",
+      "word_count": 1928,
+      "themes": [
+        "gcp",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "kubernetes",
+        "azure",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "079",
+      "slug": "gitops---why-is-it-relevant-now",
+      "title": "GitOps \\- Why is it Relevant Now?",
+      "filename": "079_gitops---why-is-it-relevant-now.md",
+      "word_count": 1082,
+      "themes": [
+        "terraform",
+        "genai",
+        "devops",
+        "kubernetes",
+        "aws",
+        "containers"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "080",
+      "slug": "is-your-organization-ready-for-a-service-mesh",
+      "title": "Is Your Organization Ready for a Service Mesh? (Service Mesh Part 3\\)",
+      "filename": "080_is-your-organization-ready-for-a-service-mesh.md",
+      "word_count": 1663,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "migration",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "081",
+      "slug": "karpenter---a-new-way-to-manage-kubernetes-node",
+      "title": "Karpenter \\- A New Way to Manage Kubernetes Node Groups",
+      "filename": "081_karpenter---a-new-way-to-manage-kubernetes-node.md",
+      "word_count": 942,
+      "themes": [
+        "terraform",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "aws",
+        "containers"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "082",
+      "slug": "elevating-women-in-tech-insights-from-opsgurus",
+      "title": "Elevating Women in Tech: Insights from OpsGuru's Mency Woo",
+      "filename": "082_elevating-women-in-tech-insights-from-opsgurus.md",
+      "word_count": 686,
+      "themes": [
+        "genai",
+        "tutorial"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "083",
+      "slug": "opsgurus-mency-woo-inducted-into-cdn-women-in-the",
+      "title": "OpsGuru’s Mency Woo Inducted into CDN Women in the Channel Hall of Fame",
+      "filename": "083_opsgurus-mency-woo-inducted-into-cdn-women-in-the.md",
+      "word_count": 345,
+      "themes": [
+        "gcp",
+        "cloud-consulting",
+        "genai",
+        "azure",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "084",
+      "slug": "mining-and-metals-digital-transformation-report",
+      "title": "Mining and Metals Digital Transformation Report 2021",
+      "filename": "084_mining-and-metals-digital-transformation-report.md",
+      "word_count": 70,
+      "themes": [
+        "cloud-consulting"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "085",
+      "slug": "opensource-data-lake-for-the-hybrid-cloud---part-1",
+      "title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 1",
+      "filename": "085_opensource-data-lake-for-the-hybrid-cloud---part-1.md",
+      "word_count": 1716,
+      "themes": [
+        "gcp",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "azure",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "086",
+      "slug": "opensource-data-lake-for-the-hybrid-cloud---part",
+      "title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake",
+      "filename": "086_opensource-data-lake-for-the-hybrid-cloud---part.md",
+      "word_count": 2018,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "kubernetes",
+        "serverless",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "087",
+      "slug": "opsguru-achieves-aws-devops-competency",
+      "title": "OpsGuru Achieves AWS DevOps Competency",
+      "filename": "087_opsguru-achieves-aws-devops-competency.md",
+      "word_count": 357,
+      "themes": [
+        "company-news",
+        "terraform",
+        "cloud-consulting",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "088",
+      "slug": "opsguru-achieves-aws-generative-ai-competency",
+      "title": "OpsGuru Achieves AWS Generative AI Competency",
+      "filename": "088_opsguru-achieves-aws-generative-ai-competency.md",
+      "word_count": 346,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "089",
+      "slug": "opsguru-announced-as-an-aws-premier-tier-service",
+      "title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+      "filename": "089_opsguru-announced-as-an-aws-premier-tier-service.md",
+      "word_count": 386,
+      "themes": [
+        "cloud-consulting",
+        "genai",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "090",
+      "slug": "opsguru-an-aws-saas-competency-launch-partner",
+      "title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "filename": "090_opsguru-an-aws-saas-competency-launch-partner.md",
+      "word_count": 562,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "kubernetes",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "091",
+      "slug": "opsguru-and-house-of-brick-partner-for-confident",
+      "title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+      "filename": "091_opsguru-and-house-of-brick-partner-for-confident.md",
+      "word_count": 825,
+      "themes": [
+        "company-news",
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "devops",
+        "migration",
+        "kubernetes",
+        "azure",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "092",
+      "slug": "opsgurus-building-a-saas-offering-on-aws-has-been",
+      "title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+      "filename": "092_opsgurus-building-a-saas-offering-on-aws-has-been.md",
+      "word_count": 313,
+      "themes": [
+        "cloud-consulting",
+        "data-analytics",
+        "genai",
+        "kubernetes",
+        "aws",
+        "containers"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "093",
+      "slug": "securing-kubernetes-secrets-how-to-efficiently",
+      "title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+      "filename": "093_securing-kubernetes-secrets-how-to-efficiently.md",
+      "word_count": 442,
+      "themes": [
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "094",
+      "slug": "setting-up-a-multi-tenant-amazon-eks-cluster-a",
+      "title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+      "filename": "094_setting-up-a-multi-tenant-amazon-eks-cluster-a.md",
+      "word_count": 1869,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "kubernetes",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "095",
+      "slug": "using-aws-step-functions-and-genai-to-accelerate",
+      "title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+      "filename": "095_using-aws-step-functions-and-genai-to-accelerate.md",
+      "word_count": 1248,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "serverless",
+        "aws"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "096",
+      "slug": "walkthrough---ecs-local-bringing-ecs-to-your",
+      "title": "Walkthrough \\- ECS Local: Bringing ECS to your local environment",
+      "filename": "096_walkthrough---ecs-local-bringing-ecs-to-your.md",
+      "word_count": 1720,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "genai",
+        "tutorial",
+        "devops",
+        "kubernetes",
+        "serverless",
+        "aws",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "097",
+      "slug": "what-is-cloud-native",
+      "title": "What is Cloud-Native?",
+      "filename": "097_what-is-cloud-native.md",
+      "word_count": 613,
+      "themes": [
+        "terraform",
+        "data-analytics",
+        "genai",
+        "devops",
+        "kubernetes",
+        "containers",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    },
+    {
+      "id": "098",
+      "slug": "voices-of-women-in-tech-highlighting-women-in",
+      "title": "Voices of Women in Tech: Highlighting Women in Cloud",
+      "filename": "098_voices-of-women-in-tech-highlighting-women-in.md",
+      "word_count": 1794,
+      "themes": [
+        "company-news",
+        "data-analytics",
+        "case-study",
+        "genai",
+        "tutorial",
+        "devops",
+        "aws",
+        "security"
+      ],
+      "extraction_date": "2025-12-19"
+    }
+  ]
+}

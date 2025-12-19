@@ -1,0 +1,6691 @@
+{
+  "generated_at": "2025-12-19T12:20:01.544258",
+  "config": {
+    "max_keywords_per_article": 5,
+    "min_keywords_per_article": 0,
+    "max_articles_per_keyword": 10,
+    "assignment_strategy": "theme-based-with-gap-fill"
+  },
+  "assignments": [
+    {
+      "article_id": "001",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "002",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "003",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "004",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "005",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "006",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "007",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "008",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "009",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "010",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "011",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "012",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "013",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "014",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "015",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "016",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "017",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "018",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "019",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "020",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "021",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "022",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "023",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "024",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "025",
+      "assigned_keywords": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "026",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "027",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "028",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "029",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "030",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "031",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "032",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "033",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "034",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "035",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "036",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "037",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "038",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "039",
+      "assigned_keywords": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-054",
+        "kw-055"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "040",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "041",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "042",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "043",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "044",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "045",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "046",
+      "assigned_keywords": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-054",
+        "kw-055"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "047",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "048",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "049",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "050",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "051",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "052",
+      "assigned_keywords": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "053",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "054",
+      "assigned_keywords": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "055",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "056",
+      "assigned_keywords": [
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "057",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "058",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "059",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "060",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "061",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "062",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "063",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "064",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "065",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "066",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "067",
+      "assigned_keywords": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-054",
+        "kw-055"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "068",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "069",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "070",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "071",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "072",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "073",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "074",
+      "assigned_keywords": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-054",
+        "kw-055"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "075",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "076",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "077",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "078",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "079",
+      "assigned_keywords": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-054",
+        "kw-055"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "080",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "081",
+      "assigned_keywords": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-054",
+        "kw-055"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "082",
+      "assigned_keywords": [
+        "kw-054",
+        "kw-056",
+        "kw-059",
+        "kw-064",
+        "kw-066"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "083",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "084",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "085",
+      "assigned_keywords": [
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "086",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "087",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "088",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "089",
+      "assigned_keywords": [
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "090",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "091",
+      "assigned_keywords": [
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "092",
+      "assigned_keywords": [
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "093",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "094",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "095",
+      "assigned_keywords": [
+        "kw-046",
+        "kw-047",
+        "kw-048",
+        "kw-049",
+        "kw-050"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "096",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "097",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    },
+    {
+      "article_id": "098",
+      "assigned_keywords": [
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040"
+      ],
+      "assignment_count": 5
+    }
+  ],
+  "unassigned_keywords": [
+    {
+      "keyword_id": "kw-078",
+      "keyword_text": "AWS Healthcare",
+      "cluster": "healthcare",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-082",
+      "keyword_text": "DevOps Financial Services",
+      "cluster": "financial",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-061",
+      "keyword_text": "Cloud-native DevOps transformation consulting services",
+      "cluster": "cloud-native",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-062",
+      "keyword_text": "Kubernetes implementation and optimization consulting",
+      "cluster": "cloud-native",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-063",
+      "keyword_text": "Microservices architecture cloud consulting",
+      "cluster": "cloud-native",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-065",
+      "keyword_text": "Serverless architecture consulting and migration",
+      "cluster": "cloud-native",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-069",
+      "keyword_text": "Container orchestration consulting services",
+      "cluster": "cloud-native",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-070",
+      "keyword_text": "Cloud security DevOps integration consulting",
+      "cluster": "devops",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-072",
+      "keyword_text": "DevOps culture transformation consulting",
+      "cluster": "devops",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-075",
+      "keyword_text": "Cloud-native application modernization consulting",
+      "cluster": "cloud-native",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-096",
+      "keyword_text": "bedrock pricing",
+      "cluster": "genai",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-098",
+      "keyword_text": "aws bedrock",
+      "cluster": "genai",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-099",
+      "keyword_text": "bedrock alternatives",
+      "cluster": "genai",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-100",
+      "keyword_text": "amazon nova act",
+      "cluster": "aws-specific",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-101",
+      "keyword_text": "semantic search",
+      "cluster": "genai",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-102",
+      "keyword_text": "text embedding",
+      "cluster": "genai",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-104",
+      "keyword_text": "transformer model",
+      "cluster": "genai",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-107",
+      "keyword_text": "credential stuffing",
+      "cluster": "security",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-108",
+      "keyword_text": "soc team",
+      "cluster": "security",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-109",
+      "keyword_text": "shadow it",
+      "cluster": "security",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-110",
+      "keyword_text": "sbom",
+      "cluster": "security",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-111",
+      "keyword_text": "inovative solutions jobs",
+      "cluster": "aws-specific",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-057",
+      "keyword_text": "Cloud optimization",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-058",
+      "keyword_text": "Scalability consulting",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-060",
+      "keyword_text": "Cloud architecture consulting",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-067",
+      "keyword_text": "Cloud cost optimization and performance consulting",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-068",
+      "keyword_text": "Scalable cloud architecture design consulting",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-071",
+      "keyword_text": "Multi-cloud architecture strategy consulting",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-073",
+      "keyword_text": "Cloud monitoring and observability consulting",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-074",
+      "keyword_text": "Infrastructure as code consulting services",
+      "cluster": "cloud-consulting",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-076",
+      "keyword_text": "Cloud Migration",
+      "cluster": "general",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-097",
+      "keyword_text": "moto testing",
+      "cluster": "general",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-103",
+      "keyword_text": "hyperwrite",
+      "cluster": "general",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-105",
+      "keyword_text": "fine tuning",
+      "cluster": "general",
+      "reason": "all_articles_at_capacity"
+    },
+    {
+      "keyword_id": "kw-106",
+      "keyword_text": "mit license",
+      "cluster": "general",
+      "reason": "all_articles_at_capacity"
+    }
+  ],
+  "assignment_details": [
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "004",
+      "article_title": "Kubernetes workloads migration from Azure AKS to Amazon EKS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "008",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "027",
+      "article_title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "034",
+      "article_title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "040",
+      "article_title": "OpsGuru Achieves AWS Migration Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "041",
+      "article_title": "OpsGuru Achieves the AWS Small and Medium Business Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "042",
+      "article_title": "OpsGuru acquired by Carbon60, establishing an end-to-end Canadian Cloud Partner.",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "047",
+      "article_title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "048",
+      "article_title": "How to Transform Your Public Sector Organization with Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-001",
+      "keyword_text": "HIPAA cloud consulting",
+      "article_id": "054",
+      "article_title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "004",
+      "article_title": "Kubernetes workloads migration from Azure AKS to Amazon EKS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "008",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "027",
+      "article_title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "034",
+      "article_title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "040",
+      "article_title": "OpsGuru Achieves AWS Migration Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "041",
+      "article_title": "OpsGuru Achieves the AWS Small and Medium Business Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "042",
+      "article_title": "OpsGuru acquired by Carbon60, establishing an end-to-end Canadian Cloud Partner.",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "047",
+      "article_title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "048",
+      "article_title": "How to Transform Your Public Sector Organization with Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-002",
+      "keyword_text": "Healthcare DevOps",
+      "article_id": "054",
+      "article_title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "004",
+      "article_title": "Kubernetes workloads migration from Azure AKS to Amazon EKS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "008",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "027",
+      "article_title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "034",
+      "article_title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "040",
+      "article_title": "OpsGuru Achieves AWS Migration Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "041",
+      "article_title": "OpsGuru Achieves the AWS Small and Medium Business Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "042",
+      "article_title": "OpsGuru acquired by Carbon60, establishing an end-to-end Canadian Cloud Partner.",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "047",
+      "article_title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "048",
+      "article_title": "How to Transform Your Public Sector Organization with Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-003",
+      "keyword_text": "Medical cloud migration",
+      "article_id": "054",
+      "article_title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "004",
+      "article_title": "Kubernetes workloads migration from Azure AKS to Amazon EKS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "008",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "027",
+      "article_title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "034",
+      "article_title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "040",
+      "article_title": "OpsGuru Achieves AWS Migration Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "041",
+      "article_title": "OpsGuru Achieves the AWS Small and Medium Business Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "042",
+      "article_title": "OpsGuru acquired by Carbon60, establishing an end-to-end Canadian Cloud Partner.",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "047",
+      "article_title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "048",
+      "article_title": "How to Transform Your Public Sector Organization with Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-004",
+      "keyword_text": "Healthcare AWS consulting",
+      "article_id": "054",
+      "article_title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "004",
+      "article_title": "Kubernetes workloads migration from Azure AKS to Amazon EKS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "008",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "027",
+      "article_title": "Trimac Accelerates Business Expansion by Fast-Tracking Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "034",
+      "article_title": "Healthcare Agency Builds a Strong Cloud Foundation for Governance and Security",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "040",
+      "article_title": "OpsGuru Achieves AWS Migration Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "041",
+      "article_title": "OpsGuru Achieves the AWS Small and Medium Business Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "042",
+      "article_title": "OpsGuru acquired by Carbon60, establishing an end-to-end Canadian Cloud Partner.",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "047",
+      "article_title": "Financial Technology Company Partners with OpsGuru for Cloud Transformation and Enhanced Control",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "048",
+      "article_title": "How to Transform Your Public Sector Organization with Cloud Adoption",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-005",
+      "keyword_text": "HIPAA compliance cloud",
+      "article_id": "054",
+      "article_title": "Portfolio+ : Accelerating the Pace of Innovation Through Cloud Transformation",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "058",
+      "article_title": "OpsGuru Awarded AWS Canada Consulting Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "059",
+      "article_title": "OpsGuru Awarded AWS Canada’s Migration & Modernization Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "065",
+      "article_title": "How Alida is Leading Research Innovation with OpsGuru’s GenAI Guidance",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "087",
+      "article_title": "OpsGuru Achieves AWS DevOps Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "091",
+      "article_title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "001",
+      "article_title": "OpsGuru Announces Expansion to Central and Eastern Canada and Welcomes Adam Chandani as VP, Sales",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "002",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "007",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "009",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-006",
+      "keyword_text": "Medical data security",
+      "article_id": "010",
+      "article_title": "The Current State of Kubernetes on AWS: Kubernetes Security, Scalability, Performance Engineering & More, Part 2",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "058",
+      "article_title": "OpsGuru Awarded AWS Canada Consulting Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "059",
+      "article_title": "OpsGuru Awarded AWS Canada’s Migration & Modernization Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "065",
+      "article_title": "How Alida is Leading Research Innovation with OpsGuru’s GenAI Guidance",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "087",
+      "article_title": "OpsGuru Achieves AWS DevOps Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "091",
+      "article_title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "001",
+      "article_title": "OpsGuru Announces Expansion to Central and Eastern Canada and Welcomes Adam Chandani as VP, Sales",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "002",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "007",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "009",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-007",
+      "keyword_text": "Healthcare cloud strategy",
+      "article_id": "010",
+      "article_title": "The Current State of Kubernetes on AWS: Kubernetes Security, Scalability, Performance Engineering & More, Part 2",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "058",
+      "article_title": "OpsGuru Awarded AWS Canada Consulting Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "059",
+      "article_title": "OpsGuru Awarded AWS Canada’s Migration & Modernization Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "065",
+      "article_title": "How Alida is Leading Research Innovation with OpsGuru’s GenAI Guidance",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "087",
+      "article_title": "OpsGuru Achieves AWS DevOps Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "091",
+      "article_title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "001",
+      "article_title": "OpsGuru Announces Expansion to Central and Eastern Canada and Welcomes Adam Chandani as VP, Sales",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "002",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "007",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "009",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-008",
+      "keyword_text": "Clinical cloud solutions",
+      "article_id": "010",
+      "article_title": "The Current State of Kubernetes on AWS: Kubernetes Security, Scalability, Performance Engineering & More, Part 2",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "058",
+      "article_title": "OpsGuru Awarded AWS Canada Consulting Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "059",
+      "article_title": "OpsGuru Awarded AWS Canada’s Migration & Modernization Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "065",
+      "article_title": "How Alida is Leading Research Innovation with OpsGuru’s GenAI Guidance",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "087",
+      "article_title": "OpsGuru Achieves AWS DevOps Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "091",
+      "article_title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "001",
+      "article_title": "OpsGuru Announces Expansion to Central and Eastern Canada and Welcomes Adam Chandani as VP, Sales",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "002",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "007",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "009",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-009",
+      "keyword_text": "Patient data protection",
+      "article_id": "010",
+      "article_title": "The Current State of Kubernetes on AWS: Kubernetes Security, Scalability, Performance Engineering & More, Part 2",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "058",
+      "article_title": "OpsGuru Awarded AWS Canada Consulting Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "059",
+      "article_title": "OpsGuru Awarded AWS Canada’s Migration & Modernization Partner of the Year",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "065",
+      "article_title": "How Alida is Leading Research Innovation with OpsGuru’s GenAI Guidance",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "087",
+      "article_title": "OpsGuru Achieves AWS DevOps Competency",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "091",
+      "article_title": "OpsGuru and House of Brick partner for confident and cost-effective Oracle migrations to AWS",
+      "match_score": 1.0,
+      "matching_themes": [
+        "migration",
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "001",
+      "article_title": "OpsGuru Announces Expansion to Central and Eastern Canada and Welcomes Adam Chandani as VP, Sales",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "002",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon EKS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "007",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "009",
+      "article_title": "The State of Kubernetes in AWS: Persistent Data Storage, Application Engineering and More",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-010",
+      "keyword_text": "Healthcare IT consulting",
+      "article_id": "010",
+      "article_title": "The Current State of Kubernetes on AWS: Kubernetes Security, Scalability, Performance Engineering & More, Part 2",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "012",
+      "article_title": "OpsGuru Achieves the AWS Resilience Competency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "013",
+      "article_title": "OpsGuru Expands Capabilities to Help Canadian Companies Accelerate Digital Transformation Through Strategic Collaboration Agreement With AWS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "014",
+      "article_title": "Building the Business Case for AWS Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "015",
+      "article_title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "016",
+      "article_title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "018",
+      "article_title": "Bosa Development Quickly Gains Benefits of the Cloud with “Lift-and-Shift First” Migration Strategy",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "019",
+      "article_title": "Deep Learning-based SaaS Enablement on Google Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "021",
+      "article_title": "Edsembli Accelerates Modernization and Business Growth with OpsGuru",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "023",
+      "article_title": "Optimizing Travel Industry Platforms with Fornova",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-011",
+      "keyword_text": "HIPAA compliant cloud migration consulting services",
+      "article_id": "025",
+      "article_title": "Brewing Business Success: OpsGuru Leads AWS Migration for Global Distributor",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "012",
+      "article_title": "OpsGuru Achieves the AWS Resilience Competency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "013",
+      "article_title": "OpsGuru Expands Capabilities to Help Canadian Companies Accelerate Digital Transformation Through Strategic Collaboration Agreement With AWS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "014",
+      "article_title": "Building the Business Case for AWS Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "015",
+      "article_title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "016",
+      "article_title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "018",
+      "article_title": "Bosa Development Quickly Gains Benefits of the Cloud with “Lift-and-Shift First” Migration Strategy",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "019",
+      "article_title": "Deep Learning-based SaaS Enablement on Google Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "021",
+      "article_title": "Edsembli Accelerates Modernization and Business Growth with OpsGuru",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "023",
+      "article_title": "Optimizing Travel Industry Platforms with Fornova",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-012",
+      "keyword_text": "Healthcare DevOps implementation with regulatory compliance",
+      "article_id": "025",
+      "article_title": "Brewing Business Success: OpsGuru Leads AWS Migration for Global Distributor",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "012",
+      "article_title": "OpsGuru Achieves the AWS Resilience Competency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "013",
+      "article_title": "OpsGuru Expands Capabilities to Help Canadian Companies Accelerate Digital Transformation Through Strategic Collaboration Agreement With AWS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "014",
+      "article_title": "Building the Business Case for AWS Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "015",
+      "article_title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "016",
+      "article_title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "018",
+      "article_title": "Bosa Development Quickly Gains Benefits of the Cloud with “Lift-and-Shift First” Migration Strategy",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "019",
+      "article_title": "Deep Learning-based SaaS Enablement on Google Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "021",
+      "article_title": "Edsembli Accelerates Modernization and Business Growth with OpsGuru",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "023",
+      "article_title": "Optimizing Travel Industry Platforms with Fornova",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-013",
+      "keyword_text": "AWS cloud consulting for healthcare organizations",
+      "article_id": "025",
+      "article_title": "Brewing Business Success: OpsGuru Leads AWS Migration for Global Distributor",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "012",
+      "article_title": "OpsGuru Achieves the AWS Resilience Competency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "013",
+      "article_title": "OpsGuru Expands Capabilities to Help Canadian Companies Accelerate Digital Transformation Through Strategic Collaboration Agreement With AWS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "014",
+      "article_title": "Building the Business Case for AWS Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "015",
+      "article_title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "016",
+      "article_title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "018",
+      "article_title": "Bosa Development Quickly Gains Benefits of the Cloud with “Lift-and-Shift First” Migration Strategy",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "019",
+      "article_title": "Deep Learning-based SaaS Enablement on Google Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "021",
+      "article_title": "Edsembli Accelerates Modernization and Business Growth with OpsGuru",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "023",
+      "article_title": "Optimizing Travel Industry Platforms with Fornova",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-014",
+      "keyword_text": "Medical practice cloud modernization consulting",
+      "article_id": "025",
+      "article_title": "Brewing Business Success: OpsGuru Leads AWS Migration for Global Distributor",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "012",
+      "article_title": "OpsGuru Achieves the AWS Resilience Competency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "013",
+      "article_title": "OpsGuru Expands Capabilities to Help Canadian Companies Accelerate Digital Transformation Through Strategic Collaboration Agreement With AWS",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "014",
+      "article_title": "Building the Business Case for AWS Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "015",
+      "article_title": "A Leading Engagement Platform’s Journey to the Cloud: Modernizing for Scalability and Efficiency",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "016",
+      "article_title": "Cloud Migration in the Public Sector: 6 Key Steps to Success",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "018",
+      "article_title": "Bosa Development Quickly Gains Benefits of the Cloud with “Lift-and-Shift First” Migration Strategy",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "019",
+      "article_title": "Deep Learning-based SaaS Enablement on Google Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "021",
+      "article_title": "Edsembli Accelerates Modernization and Business Growth with OpsGuru",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "023",
+      "article_title": "Optimizing Travel Industry Platforms with Fornova",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-015",
+      "keyword_text": "Healthcare data migration HIPAA compliance requirements",
+      "article_id": "025",
+      "article_title": "Brewing Business Success: OpsGuru Leads AWS Migration for Global Distributor",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "026",
+      "article_title": "OpsGuru Customer Success Story: Empowering Numeris on the Cloud Journey",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "028",
+      "article_title": "Geographical Cloud Platform Expansion with Uncoil",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "037",
+      "article_title": "Delivering Limitless Live Video for Today’s Needs with LiveSwitch",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "045",
+      "article_title": "OpsGuru joining FoodX-led Consortium on Food Logistics Innovations",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "049",
+      "article_title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "050",
+      "article_title": "Top 10 Misconceptions around Migrating Hadoop to the Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "051",
+      "article_title": "Transforming Asset Management: A Journey to a Centralized 3D Content Management Platform",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "053",
+      "article_title": "Strategies for AWS Cost Optimization in 2025",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "055",
+      "article_title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-016",
+      "keyword_text": "Clinical workflow cloud optimization consulting",
+      "article_id": "056",
+      "article_title": "OpsGuru Achieves the AWS Lambda Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "026",
+      "article_title": "OpsGuru Customer Success Story: Empowering Numeris on the Cloud Journey",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "028",
+      "article_title": "Geographical Cloud Platform Expansion with Uncoil",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "037",
+      "article_title": "Delivering Limitless Live Video for Today’s Needs with LiveSwitch",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "045",
+      "article_title": "OpsGuru joining FoodX-led Consortium on Food Logistics Innovations",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "049",
+      "article_title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "050",
+      "article_title": "Top 10 Misconceptions around Migrating Hadoop to the Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "051",
+      "article_title": "Transforming Asset Management: A Journey to a Centralized 3D Content Management Platform",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "053",
+      "article_title": "Strategies for AWS Cost Optimization in 2025",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "055",
+      "article_title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-017",
+      "keyword_text": "Patient data security cloud consulting services",
+      "article_id": "056",
+      "article_title": "OpsGuru Achieves the AWS Lambda Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "026",
+      "article_title": "OpsGuru Customer Success Story: Empowering Numeris on the Cloud Journey",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "028",
+      "article_title": "Geographical Cloud Platform Expansion with Uncoil",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "037",
+      "article_title": "Delivering Limitless Live Video for Today’s Needs with LiveSwitch",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "045",
+      "article_title": "OpsGuru joining FoodX-led Consortium on Food Logistics Innovations",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "049",
+      "article_title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "050",
+      "article_title": "Top 10 Misconceptions around Migrating Hadoop to the Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "051",
+      "article_title": "Transforming Asset Management: A Journey to a Centralized 3D Content Management Platform",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "053",
+      "article_title": "Strategies for AWS Cost Optimization in 2025",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "055",
+      "article_title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-018",
+      "keyword_text": "Healthcare legacy system cloud migration strategy",
+      "article_id": "056",
+      "article_title": "OpsGuru Achieves the AWS Lambda Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "026",
+      "article_title": "OpsGuru Customer Success Story: Empowering Numeris on the Cloud Journey",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "028",
+      "article_title": "Geographical Cloud Platform Expansion with Uncoil",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "037",
+      "article_title": "Delivering Limitless Live Video for Today’s Needs with LiveSwitch",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "045",
+      "article_title": "OpsGuru joining FoodX-led Consortium on Food Logistics Innovations",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "049",
+      "article_title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "050",
+      "article_title": "Top 10 Misconceptions around Migrating Hadoop to the Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "051",
+      "article_title": "Transforming Asset Management: A Journey to a Centralized 3D Content Management Platform",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "053",
+      "article_title": "Strategies for AWS Cost Optimization in 2025",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "055",
+      "article_title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-019",
+      "keyword_text": "Medical device integration cloud consulting",
+      "article_id": "056",
+      "article_title": "OpsGuru Achieves the AWS Lambda Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "026",
+      "article_title": "OpsGuru Customer Success Story: Empowering Numeris on the Cloud Journey",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "028",
+      "article_title": "Geographical Cloud Platform Expansion with Uncoil",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "037",
+      "article_title": "Delivering Limitless Live Video for Today’s Needs with LiveSwitch",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "045",
+      "article_title": "OpsGuru joining FoodX-led Consortium on Food Logistics Innovations",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "049",
+      "article_title": "How to Streamline & Accelerate Your SMB Cloud Adoption",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "050",
+      "article_title": "Top 10 Misconceptions around Migrating Hadoop to the Cloud",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "051",
+      "article_title": "Transforming Asset Management: A Journey to a Centralized 3D Content Management Platform",
+      "match_score": 0.9,
+      "matching_themes": [
+        "security",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "053",
+      "article_title": "Strategies for AWS Cost Optimization in 2025",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "055",
+      "article_title": "OpsGuru Achieves Amazon API Gateway Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-020",
+      "keyword_text": "Healthcare compliance audit cloud readiness assessment",
+      "article_id": "056",
+      "article_title": "OpsGuru Achieves the AWS Lambda Service Delivery Designation",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "057",
+      "article_title": "5 Key Steps for a Successful AWS Cloud Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "060",
+      "article_title": "AWS Transfer Family Service Delivery Launch Partner",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "064",
+      "article_title": "OpsGuru and Alida Partner to Migrate Data to AWS Cloud for Scalability and Faster Performance",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "066",
+      "article_title": "HIPAA Compliant Genomics Platform with Emedgene",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "069",
+      "article_title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "080",
+      "article_title": "Is Your Organization Ready for a Service Mesh? (Service Mesh Part 3\\)",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "085",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 1",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "003",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "005",
+      "article_title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+      "match_score": 0.65,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-021",
+      "keyword_text": "HIPAA risk assessment cloud consulting services",
+      "article_id": "006",
+      "article_title": "OpsGuru Awarded 2023 Canadian AWS Partner Award",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "057",
+      "article_title": "5 Key Steps for a Successful AWS Cloud Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "060",
+      "article_title": "AWS Transfer Family Service Delivery Launch Partner",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "064",
+      "article_title": "OpsGuru and Alida Partner to Migrate Data to AWS Cloud for Scalability and Faster Performance",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "066",
+      "article_title": "HIPAA Compliant Genomics Platform with Emedgene",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "069",
+      "article_title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "080",
+      "article_title": "Is Your Organization Ready for a Service Mesh? (Service Mesh Part 3\\)",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "085",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 1",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "003",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "005",
+      "article_title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+      "match_score": 0.65,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-022",
+      "keyword_text": "Healthcare cloud security consulting and implementation",
+      "article_id": "006",
+      "article_title": "OpsGuru Awarded 2023 Canadian AWS Partner Award",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "057",
+      "article_title": "5 Key Steps for a Successful AWS Cloud Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "060",
+      "article_title": "AWS Transfer Family Service Delivery Launch Partner",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "064",
+      "article_title": "OpsGuru and Alida Partner to Migrate Data to AWS Cloud for Scalability and Faster Performance",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "066",
+      "article_title": "HIPAA Compliant Genomics Platform with Emedgene",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "069",
+      "article_title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "080",
+      "article_title": "Is Your Organization Ready for a Service Mesh? (Service Mesh Part 3\\)",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "085",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 1",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "003",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "005",
+      "article_title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+      "match_score": 0.65,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-023",
+      "keyword_text": "Medical practice digital transformation consulting",
+      "article_id": "006",
+      "article_title": "OpsGuru Awarded 2023 Canadian AWS Partner Award",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "057",
+      "article_title": "5 Key Steps for a Successful AWS Cloud Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "060",
+      "article_title": "AWS Transfer Family Service Delivery Launch Partner",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "064",
+      "article_title": "OpsGuru and Alida Partner to Migrate Data to AWS Cloud for Scalability and Faster Performance",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "066",
+      "article_title": "HIPAA Compliant Genomics Platform with Emedgene",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "069",
+      "article_title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "080",
+      "article_title": "Is Your Organization Ready for a Service Mesh? (Service Mesh Part 3\\)",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "085",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 1",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "003",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "005",
+      "article_title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+      "match_score": 0.65,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-024",
+      "keyword_text": "Clinical data analytics cloud consulting services",
+      "article_id": "006",
+      "article_title": "OpsGuru Awarded 2023 Canadian AWS Partner Award",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "057",
+      "article_title": "5 Key Steps for a Successful AWS Cloud Migration",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "060",
+      "article_title": "AWS Transfer Family Service Delivery Launch Partner",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "064",
+      "article_title": "OpsGuru and Alida Partner to Migrate Data to AWS Cloud for Scalability and Faster Performance",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "066",
+      "article_title": "HIPAA Compliant Genomics Platform with Emedgene",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "069",
+      "article_title": "Automating & Optimizing Best Candidate Hiring Platforms with Perfect",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "080",
+      "article_title": "Is Your Organization Ready for a Service Mesh? (Service Mesh Part 3\\)",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "085",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 1",
+      "match_score": 0.9,
+      "matching_themes": [
+        "migration",
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "003",
+      "article_title": "OpsGuru Achieves the AWS Service Delivery Designation for Amazon OpenSearch Service",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "005",
+      "article_title": "Automate Deployment to AWS with GitHub Actions and DevOps Automation",
+      "match_score": 0.65,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-025",
+      "keyword_text": "Healthcare disaster recovery cloud consulting",
+      "article_id": "006",
+      "article_title": "OpsGuru Awarded 2023 Canadian AWS Partner Award",
+      "match_score": 0.65,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "011",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "017",
+      "article_title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "020",
+      "article_title": "Cocoflo Drives the SMART City Movement Forward with the Deployment of AWS Microservices",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "024",
+      "article_title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "029",
+      "article_title": "When Isolation and Silos are good: Data stores in a multi-tenant solution",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "030",
+      "article_title": "DeepSeek: The AI Game Changer and How to Use It on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "033",
+      "article_title": "Grow Your Business with Generative AI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "036",
+      "article_title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "038",
+      "article_title": "Make Knowledge Sharing Effective with Amazon Q Business",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-026",
+      "keyword_text": "Financial services DevOps",
+      "article_id": "052",
+      "article_title": "What does a Service Mesh do? (Part 2\\)",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "011",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "017",
+      "article_title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "020",
+      "article_title": "Cocoflo Drives the SMART City Movement Forward with the Deployment of AWS Microservices",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "024",
+      "article_title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "029",
+      "article_title": "When Isolation and Silos are good: Data stores in a multi-tenant solution",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "030",
+      "article_title": "DeepSeek: The AI Game Changer and How to Use It on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "033",
+      "article_title": "Grow Your Business with Generative AI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "036",
+      "article_title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "038",
+      "article_title": "Make Knowledge Sharing Effective with Amazon Q Business",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-027",
+      "keyword_text": "Banking cloud consulting",
+      "article_id": "052",
+      "article_title": "What does a Service Mesh do? (Part 2\\)",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "011",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "017",
+      "article_title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "020",
+      "article_title": "Cocoflo Drives the SMART City Movement Forward with the Deployment of AWS Microservices",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "024",
+      "article_title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "029",
+      "article_title": "When Isolation and Silos are good: Data stores in a multi-tenant solution",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "030",
+      "article_title": "DeepSeek: The AI Game Changer and How to Use It on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "033",
+      "article_title": "Grow Your Business with Generative AI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "036",
+      "article_title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "038",
+      "article_title": "Make Knowledge Sharing Effective with Amazon Q Business",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-028",
+      "keyword_text": "Financial cloud migration",
+      "article_id": "052",
+      "article_title": "What does a Service Mesh do? (Part 2\\)",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "011",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "017",
+      "article_title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "020",
+      "article_title": "Cocoflo Drives the SMART City Movement Forward with the Deployment of AWS Microservices",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "024",
+      "article_title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "029",
+      "article_title": "When Isolation and Silos are good: Data stores in a multi-tenant solution",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "030",
+      "article_title": "DeepSeek: The AI Game Changer and How to Use It on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "033",
+      "article_title": "Grow Your Business with Generative AI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "036",
+      "article_title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "038",
+      "article_title": "Make Knowledge Sharing Effective with Amazon Q Business",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-029",
+      "keyword_text": "SOX compliance cloud",
+      "article_id": "052",
+      "article_title": "What does a Service Mesh do? (Part 2\\)",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "011",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "017",
+      "article_title": "Conquer 2025 with AI: A Practical Guide for Business Leaders",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "020",
+      "article_title": "Cocoflo Drives the SMART City Movement Forward with the Deployment of AWS Microservices",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "024",
+      "article_title": "How Gen AI Improves Accuracy by 20% at a Talent Acquisition Platform",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "029",
+      "article_title": "When Isolation and Silos are good: Data stores in a multi-tenant solution",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "030",
+      "article_title": "DeepSeek: The AI Game Changer and How to Use It on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "033",
+      "article_title": "Grow Your Business with Generative AI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "036",
+      "article_title": "Lessons from “Howl's Moving Castle”: Defense through Agility",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "038",
+      "article_title": "Make Knowledge Sharing Effective with Amazon Q Business",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-030",
+      "keyword_text": "PCI DSS cloud consulting",
+      "article_id": "052",
+      "article_title": "What does a Service Mesh do? (Part 2\\)",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "068",
+      "article_title": "Connecting Women to Essential Healthcare with Nivi",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "070",
+      "article_title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "migration",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "072",
+      "article_title": "Scaling Travel Insurance Platforms with Setoo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "073",
+      "article_title": "Data Sovereignty in Canada: Implications for Cloud Services",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "075",
+      "article_title": "From AI Agents to Agentic AI: An Exploration into Autonomous Systems",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "077",
+      "article_title": "Generative AI for Business: How Amazon Q Business Delivers 10x ROI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "078",
+      "article_title": "GitOps \\- The Growing Landscape of Tools",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "086",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "090",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-031",
+      "keyword_text": "Financial services AWS",
+      "article_id": "092",
+      "article_title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+      "match_score": 0.8,
+      "matching_themes": [
+        "cloud-consulting",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "068",
+      "article_title": "Connecting Women to Essential Healthcare with Nivi",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "070",
+      "article_title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "migration",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "072",
+      "article_title": "Scaling Travel Insurance Platforms with Setoo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "073",
+      "article_title": "Data Sovereignty in Canada: Implications for Cloud Services",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "075",
+      "article_title": "From AI Agents to Agentic AI: An Exploration into Autonomous Systems",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "077",
+      "article_title": "Generative AI for Business: How Amazon Q Business Delivers 10x ROI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "078",
+      "article_title": "GitOps \\- The Growing Landscape of Tools",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "086",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "090",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-032",
+      "keyword_text": "Banking modernization",
+      "article_id": "092",
+      "article_title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+      "match_score": 0.8,
+      "matching_themes": [
+        "cloud-consulting",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "068",
+      "article_title": "Connecting Women to Essential Healthcare with Nivi",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "070",
+      "article_title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "migration",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "072",
+      "article_title": "Scaling Travel Insurance Platforms with Setoo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "073",
+      "article_title": "Data Sovereignty in Canada: Implications for Cloud Services",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "075",
+      "article_title": "From AI Agents to Agentic AI: An Exploration into Autonomous Systems",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "077",
+      "article_title": "Generative AI for Business: How Amazon Q Business Delivers 10x ROI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "078",
+      "article_title": "GitOps \\- The Growing Landscape of Tools",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "086",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "090",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-033",
+      "keyword_text": "Financial cloud strategy",
+      "article_id": "092",
+      "article_title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+      "match_score": 0.8,
+      "matching_themes": [
+        "cloud-consulting",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "068",
+      "article_title": "Connecting Women to Essential Healthcare with Nivi",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "070",
+      "article_title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "migration",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "072",
+      "article_title": "Scaling Travel Insurance Platforms with Setoo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "073",
+      "article_title": "Data Sovereignty in Canada: Implications for Cloud Services",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "075",
+      "article_title": "From AI Agents to Agentic AI: An Exploration into Autonomous Systems",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "077",
+      "article_title": "Generative AI for Business: How Amazon Q Business Delivers 10x ROI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "078",
+      "article_title": "GitOps \\- The Growing Landscape of Tools",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "086",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "090",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-034",
+      "keyword_text": "Fintech cloud solutions",
+      "article_id": "092",
+      "article_title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+      "match_score": 0.8,
+      "matching_themes": [
+        "cloud-consulting",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "068",
+      "article_title": "Connecting Women to Essential Healthcare with Nivi",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "070",
+      "article_title": "OpsGuru helps design, implement and operate a multi-regional platform on AWS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "migration",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "072",
+      "article_title": "Scaling Travel Insurance Platforms with Setoo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "073",
+      "article_title": "Data Sovereignty in Canada: Implications for Cloud Services",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "075",
+      "article_title": "From AI Agents to Agentic AI: An Exploration into Autonomous Systems",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "077",
+      "article_title": "Generative AI for Business: How Amazon Q Business Delivers 10x ROI",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "078",
+      "article_title": "GitOps \\- The Growing Landscape of Tools",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "086",
+      "article_title": "OpenSource Data Lake for the Hybrid Cloud \\- Part 2: Designing an OSS DataLake",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "090",
+      "article_title": "OpsGuru an AWS SaaS Competency Launch Partner",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-035",
+      "keyword_text": "Financial IT consulting",
+      "article_id": "092",
+      "article_title": "OpsGuru's “Building a SaaS Offering on AWS” has been Released\\!",
+      "match_score": 0.8,
+      "matching_themes": [
+        "cloud-consulting",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "093",
+      "article_title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "094",
+      "article_title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "096",
+      "article_title": "Walkthrough \\- ECS Local: Bringing ECS to your local environment",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "097",
+      "article_title": "What is Cloud-Native?",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "098",
+      "article_title": "Voices of Women in Tech: Highlighting Women in Cloud",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "022",
+      "article_title": "Pandemic Proof Food Delivery with FoodX",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "031",
+      "article_title": "Demystifying AI Agents: 6 Types and Characteristics",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "032",
+      "article_title": "Enhancing Container Security in the CI/CD Pipeline with Amazon Inspector",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "035",
+      "article_title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-036",
+      "keyword_text": "Financial services cloud consulting SOX compliance",
+      "article_id": "043",
+      "article_title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "093",
+      "article_title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "094",
+      "article_title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "096",
+      "article_title": "Walkthrough \\- ECS Local: Bringing ECS to your local environment",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "097",
+      "article_title": "What is Cloud-Native?",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "098",
+      "article_title": "Voices of Women in Tech: Highlighting Women in Cloud",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "022",
+      "article_title": "Pandemic Proof Food Delivery with FoodX",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "031",
+      "article_title": "Demystifying AI Agents: 6 Types and Characteristics",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "032",
+      "article_title": "Enhancing Container Security in the CI/CD Pipeline with Amazon Inspector",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "035",
+      "article_title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-037",
+      "keyword_text": "Banking DevOps implementation regulatory requirements",
+      "article_id": "043",
+      "article_title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "093",
+      "article_title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "094",
+      "article_title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "096",
+      "article_title": "Walkthrough \\- ECS Local: Bringing ECS to your local environment",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "097",
+      "article_title": "What is Cloud-Native?",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "098",
+      "article_title": "Voices of Women in Tech: Highlighting Women in Cloud",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "022",
+      "article_title": "Pandemic Proof Food Delivery with FoodX",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "031",
+      "article_title": "Demystifying AI Agents: 6 Types and Characteristics",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "032",
+      "article_title": "Enhancing Container Security in the CI/CD Pipeline with Amazon Inspector",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "035",
+      "article_title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-038",
+      "keyword_text": "AWS cloud consulting for financial institutions",
+      "article_id": "043",
+      "article_title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "093",
+      "article_title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "094",
+      "article_title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "096",
+      "article_title": "Walkthrough \\- ECS Local: Bringing ECS to your local environment",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "097",
+      "article_title": "What is Cloud-Native?",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "098",
+      "article_title": "Voices of Women in Tech: Highlighting Women in Cloud",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "022",
+      "article_title": "Pandemic Proof Food Delivery with FoodX",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "031",
+      "article_title": "Demystifying AI Agents: 6 Types and Characteristics",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "032",
+      "article_title": "Enhancing Container Security in the CI/CD Pipeline with Amazon Inspector",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "035",
+      "article_title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-039",
+      "keyword_text": "Financial services digital transformation consulting",
+      "article_id": "043",
+      "article_title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "093",
+      "article_title": "Securing Kubernetes secrets: How to efficiently secure access to etcd and protect your secrets",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "094",
+      "article_title": "Setting up a Multi-tenant Amazon EKS cluster: a few things to consider",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "096",
+      "article_title": "Walkthrough \\- ECS Local: Bringing ECS to your local environment",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "097",
+      "article_title": "What is Cloud-Native?",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "098",
+      "article_title": "Voices of Women in Tech: Highlighting Women in Cloud",
+      "match_score": 0.8,
+      "matching_themes": [
+        "security",
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "022",
+      "article_title": "Pandemic Proof Food Delivery with FoodX",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "031",
+      "article_title": "Demystifying AI Agents: 6 Types and Characteristics",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "032",
+      "article_title": "Enhancing Container Security in the CI/CD Pipeline with Amazon Inspector",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "035",
+      "article_title": "Infrastructure as Code and Continuous Delivery Makes Database Development Easy",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-040",
+      "keyword_text": "Banking cloud migration PCI DSS compliance",
+      "article_id": "043",
+      "article_title": "AWS Hero Denis Astahov Brings Commitment to Community and OpsGuru Customers",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "044",
+      "article_title": "OpsGuru Named 2024 AWS Canada Regional Partner of the Year",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "061",
+      "article_title": "Building a SaaS Offering on AWS",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "062",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Ineffective KPIs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "migration"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "063",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "071",
+      "article_title": "SOC2 Compliant AWS Platform with Rival Technologies",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "076",
+      "article_title": "Supercharging Customer Experiences Using GenAI and Knowledge Bases For Amazon Bedrock",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "083",
+      "article_title": "OpsGuru’s Mency Woo Inducted into CDN Women in the Channel Hall of Fame",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "084",
+      "article_title": "Mining and Metals Digital Transformation Report 2021",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "088",
+      "article_title": "OpsGuru Achieves AWS Generative AI Competency",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-041",
+      "keyword_text": "Financial services operational resilience consulting",
+      "article_id": "089",
+      "article_title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "044",
+      "article_title": "OpsGuru Named 2024 AWS Canada Regional Partner of the Year",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "061",
+      "article_title": "Building a SaaS Offering on AWS",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "062",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Ineffective KPIs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "migration"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "063",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "071",
+      "article_title": "SOC2 Compliant AWS Platform with Rival Technologies",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "076",
+      "article_title": "Supercharging Customer Experiences Using GenAI and Knowledge Bases For Amazon Bedrock",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "083",
+      "article_title": "OpsGuru’s Mency Woo Inducted into CDN Women in the Channel Hall of Fame",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "084",
+      "article_title": "Mining and Metals Digital Transformation Report 2021",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "088",
+      "article_title": "OpsGuru Achieves AWS Generative AI Competency",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-042",
+      "keyword_text": "Investment firm cloud modernization strategy",
+      "article_id": "089",
+      "article_title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "044",
+      "article_title": "OpsGuru Named 2024 AWS Canada Regional Partner of the Year",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "061",
+      "article_title": "Building a SaaS Offering on AWS",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "062",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Ineffective KPIs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "migration"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "063",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "071",
+      "article_title": "SOC2 Compliant AWS Platform with Rival Technologies",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "076",
+      "article_title": "Supercharging Customer Experiences Using GenAI and Knowledge Bases For Amazon Bedrock",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "083",
+      "article_title": "OpsGuru’s Mency Woo Inducted into CDN Women in the Channel Hall of Fame",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "084",
+      "article_title": "Mining and Metals Digital Transformation Report 2021",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "088",
+      "article_title": "OpsGuru Achieves AWS Generative AI Competency",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-043",
+      "keyword_text": "Banking legacy system cloud migration consulting",
+      "article_id": "089",
+      "article_title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "044",
+      "article_title": "OpsGuru Named 2024 AWS Canada Regional Partner of the Year",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "061",
+      "article_title": "Building a SaaS Offering on AWS",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "062",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Ineffective KPIs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "migration"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "063",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "071",
+      "article_title": "SOC2 Compliant AWS Platform with Rival Technologies",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "076",
+      "article_title": "Supercharging Customer Experiences Using GenAI and Knowledge Bases For Amazon Bedrock",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "083",
+      "article_title": "OpsGuru’s Mency Woo Inducted into CDN Women in the Channel Hall of Fame",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "084",
+      "article_title": "Mining and Metals Digital Transformation Report 2021",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "088",
+      "article_title": "OpsGuru Achieves AWS Generative AI Competency",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-044",
+      "keyword_text": "Financial services multi-cloud strategy consulting",
+      "article_id": "089",
+      "article_title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "044",
+      "article_title": "OpsGuru Named 2024 AWS Canada Regional Partner of the Year",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "061",
+      "article_title": "Building a SaaS Offering on AWS",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "062",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Ineffective KPIs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "migration"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "063",
+      "article_title": "Pitfalls to Avoid in Cloud Adoption: Spiralling Out Cloud Costs",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "071",
+      "article_title": "SOC2 Compliant AWS Platform with Rival Technologies",
+      "match_score": 0.6,
+      "matching_themes": [
+        "security"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "076",
+      "article_title": "Supercharging Customer Experiences Using GenAI and Knowledge Bases For Amazon Bedrock",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "083",
+      "article_title": "OpsGuru’s Mency Woo Inducted into CDN Women in the Channel Hall of Fame",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "084",
+      "article_title": "Mining and Metals Digital Transformation Report 2021",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "088",
+      "article_title": "OpsGuru Achieves AWS Generative AI Competency",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-045",
+      "keyword_text": "Credit union cloud security consulting services",
+      "article_id": "089",
+      "article_title": "OpsGuru announced as an AWS Premier Tier Service Partner, becoming the only Canadian-Based AWS Premier Partner",
+      "match_score": 0.6,
+      "matching_themes": [
+        "cloud-consulting"
+      ]
+    },
+    {
+      "keyword_id": "kw-046",
+      "keyword_text": "Financial services disaster recovery cloud consulting",
+      "article_id": "095",
+      "article_title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-047",
+      "keyword_text": "Banking API modernization cloud consulting",
+      "article_id": "095",
+      "article_title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-048",
+      "keyword_text": "Financial services data analytics cloud implementation",
+      "article_id": "095",
+      "article_title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-049",
+      "keyword_text": "Insurance company cloud transformation consulting",
+      "article_id": "095",
+      "article_title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-050",
+      "keyword_text": "Financial services compliance automation consulting",
+      "article_id": "095",
+      "article_title": "Using AWS Step Functions and GenAI to Accelerate Your Social Media Game",
+      "match_score": 0.6,
+      "matching_themes": [
+        "data-analytics"
+      ]
+    },
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "article_id": "067",
+      "article_title": "Kubernetes Development Environment for ML in Amazon EKS",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "article_id": "079",
+      "article_title": "GitOps \\- Why is it Relevant Now?",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "kubernetes",
+        "containers"
+      ]
+    },
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "article_id": "081",
+      "article_title": "Karpenter \\- A New Way to Manage Kubernetes Node Groups",
+      "match_score": 0.729,
+      "matching_themes": [
+        "containers",
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "article_id": "074",
+      "article_title": "Does Your Organization Need a Service Mesh? (Part 1\\)",
+      "match_score": 0.586,
+      "matching_themes": [
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "article_id": "039",
+      "article_title": "Official Announcement: Appointment of New Chief Executive Officer",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-051",
+      "keyword_text": "Cloud-native DevOps",
+      "article_id": "046",
+      "article_title": "OpsGuru Pioneers Launch of Professional Services within the AWS Marketplace",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "article_id": "067",
+      "article_title": "Kubernetes Development Environment for ML in Amazon EKS",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "article_id": "079",
+      "article_title": "GitOps \\- Why is it Relevant Now?",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "kubernetes",
+        "containers"
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "article_id": "081",
+      "article_title": "Karpenter \\- A New Way to Manage Kubernetes Node Groups",
+      "match_score": 0.729,
+      "matching_themes": [
+        "containers",
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "article_id": "074",
+      "article_title": "Does Your Organization Need a Service Mesh? (Part 1\\)",
+      "match_score": 0.586,
+      "matching_themes": [
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "article_id": "039",
+      "article_title": "Official Announcement: Appointment of New Chief Executive Officer",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-052",
+      "keyword_text": "Kubernetes consulting",
+      "article_id": "046",
+      "article_title": "OpsGuru Pioneers Launch of Professional Services within the AWS Marketplace",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "article_id": "067",
+      "article_title": "Kubernetes Development Environment for ML in Amazon EKS",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "article_id": "079",
+      "article_title": "GitOps \\- Why is it Relevant Now?",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "kubernetes",
+        "containers"
+      ]
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "article_id": "081",
+      "article_title": "Karpenter \\- A New Way to Manage Kubernetes Node Groups",
+      "match_score": 0.729,
+      "matching_themes": [
+        "containers",
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "article_id": "074",
+      "article_title": "Does Your Organization Need a Service Mesh? (Part 1\\)",
+      "match_score": 0.586,
+      "matching_themes": [
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "article_id": "039",
+      "article_title": "Official Announcement: Appointment of New Chief Executive Officer",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-053",
+      "keyword_text": "Microservices consulting",
+      "article_id": "046",
+      "article_title": "OpsGuru Pioneers Launch of Professional Services within the AWS Marketplace",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "081",
+      "article_title": "Karpenter \\- A New Way to Manage Kubernetes Node Groups",
+      "match_score": 1.0,
+      "matching_themes": [
+        "genai",
+        "aws",
+        "tutorial"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "046",
+      "article_title": "OpsGuru Pioneers Launch of Professional Services within the AWS Marketplace",
+      "match_score": 0.8,
+      "matching_themes": [
+        "genai",
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "067",
+      "article_title": "Kubernetes Development Environment for ML in Amazon EKS",
+      "match_score": 0.8,
+      "matching_themes": [
+        "genai",
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "074",
+      "article_title": "Does Your Organization Need a Service Mesh? (Part 1\\)",
+      "match_score": 0.8,
+      "matching_themes": [
+        "genai",
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "079",
+      "article_title": "GitOps \\- Why is it Relevant Now?",
+      "match_score": 0.8,
+      "matching_themes": [
+        "genai",
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "082",
+      "article_title": "Elevating Women in Tech: Insights from OpsGuru's Mency Woo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "genai",
+        "tutorial"
+      ]
+    },
+    {
+      "keyword_id": "kw-054",
+      "keyword_text": "GenAI cloud consulting",
+      "article_id": "039",
+      "article_title": "Official Announcement: Appointment of New Chief Executive Officer",
+      "match_score": 0.55,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "article_id": "067",
+      "article_title": "Kubernetes Development Environment for ML in Amazon EKS",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "article_id": "079",
+      "article_title": "GitOps \\- Why is it Relevant Now?",
+      "match_score": 0.871,
+      "matching_themes": [
+        "devops",
+        "aws",
+        "kubernetes",
+        "containers"
+      ]
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "article_id": "081",
+      "article_title": "Karpenter \\- A New Way to Manage Kubernetes Node Groups",
+      "match_score": 0.729,
+      "matching_themes": [
+        "containers",
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "article_id": "074",
+      "article_title": "Does Your Organization Need a Service Mesh? (Part 1\\)",
+      "match_score": 0.586,
+      "matching_themes": [
+        "aws",
+        "kubernetes"
+      ]
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "article_id": "039",
+      "article_title": "Official Announcement: Appointment of New Chief Executive Officer",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-055",
+      "keyword_text": "Serverless architecture",
+      "article_id": "046",
+      "article_title": "OpsGuru Pioneers Launch of Professional Services within the AWS Marketplace",
+      "match_score": 0.443,
+      "matching_themes": [
+        "aws"
+      ]
+    },
+    {
+      "keyword_id": "kw-056",
+      "keyword_text": "DevOps automation",
+      "article_id": "082",
+      "article_title": "Elevating Women in Tech: Insights from OpsGuru's Mency Woo",
+      "match_score": 0.55,
+      "matching_themes": [
+        "tutorial"
+      ]
+    },
+    {
+      "keyword_id": "kw-059",
+      "keyword_text": "Modern DevOps practices",
+      "article_id": "082",
+      "article_title": "Elevating Women in Tech: Insights from OpsGuru's Mency Woo",
+      "match_score": 0.55,
+      "matching_themes": [
+        "tutorial"
+      ]
+    },
+    {
+      "keyword_id": "kw-064",
+      "keyword_text": "GenAI implementation cloud consulting services",
+      "article_id": "082",
+      "article_title": "Elevating Women in Tech: Insights from OpsGuru's Mency Woo",
+      "match_score": 0.8,
+      "matching_themes": [
+        "genai",
+        "tutorial"
+      ]
+    },
+    {
+      "keyword_id": "kw-066",
+      "keyword_text": "DevOps automation and CI/CD pipeline consulting",
+      "article_id": "082",
+      "article_title": "Elevating Women in Tech: Insights from OpsGuru's Mency Woo",
+      "match_score": 0.55,
+      "matching_themes": [
+        "tutorial"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_keywords": 94,
+    "assigned_keywords": 59,
+    "unassigned_keywords": 35,
+    "total_articles": 98,
+    "articles_with_keywords": 98,
+    "total_assignments": 490,
+    "avg_keywords_per_article": 5.0
+  }
+}

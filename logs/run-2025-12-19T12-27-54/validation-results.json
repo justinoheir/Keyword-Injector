@@ -1,0 +1,212 @@
+{
+  "run_id": "run-2025-12-19T12-27-54",
+  "validation_time": "2025-12-19T12:28:11.182105",
+  "strict_mode": false,
+  "articles_validated": 4,
+  "articles_passed": 4,
+  "articles_failed": 0,
+  "total_issues": 0,
+  "total_warnings": 0,
+  "article_results": [
+    {
+      "article_id": "001",
+      "filename": "001_opsguru-announces-expansion-to-central-and.md",
+      "validation_time": "2025-12-19T12:28:11.184119",
+      "passed": true,
+      "checks": {
+        "word_count": {
+          "original": 493,
+          "processed": 501,
+          "delta": 8,
+          "delta_pct": 1.62,
+          "threshold": 5,
+          "passed": true
+        },
+        "readability": {
+          "original": {
+            "grade_level": 16.0,
+            "reading_ease": 26.4,
+            "avg_words_per_sentence": 25.9,
+            "avg_syllables_per_word": 1.82
+          },
+          "processed": {
+            "grade_level": 16.2,
+            "reading_ease": 25.6,
+            "avg_words_per_sentence": 26.4,
+            "avg_syllables_per_word": 1.83
+          },
+          "reading_ease_drop": 0.8,
+          "threshold": 5,
+          "passed": true
+        },
+        "repeated_phrases": {
+          "count": 0,
+          "phrases": [],
+          "passed": true
+        },
+        "awkward_patterns": {
+          "count": 0,
+          "patterns": [],
+          "passed": true
+        },
+        "new_facts": {
+          "count": 0,
+          "facts": [],
+          "passed": true
+        }
+      },
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "article_id": "002",
+      "filename": "002_opsguru-achieves-the-aws-service-delivery.md",
+      "validation_time": "2025-12-19T12:28:11.193028",
+      "passed": true,
+      "checks": {
+        "word_count": {
+          "original": 342,
+          "processed": 346,
+          "delta": 4,
+          "delta_pct": 1.17,
+          "threshold": 5,
+          "passed": true
+        },
+        "readability": {
+          "original": {
+            "grade_level": 22.2,
+            "reading_ease": 0,
+            "avg_words_per_sentence": 34.2,
+            "avg_syllables_per_word": 2.07
+          },
+          "processed": {
+            "grade_level": 22.4,
+            "reading_ease": 0,
+            "avg_words_per_sentence": 34.6,
+            "avg_syllables_per_word": 2.08
+          },
+          "reading_ease_drop": 0,
+          "threshold": 5,
+          "passed": true
+        },
+        "repeated_phrases": {
+          "count": 0,
+          "phrases": [],
+          "passed": true
+        },
+        "awkward_patterns": {
+          "count": 0,
+          "patterns": [],
+          "passed": true
+        },
+        "new_facts": {
+          "count": 0,
+          "facts": [],
+          "passed": true
+        }
+      },
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "article_id": "020",
+      "filename": "020_cocoflo-drives-the-smart-city-movement-forward.md",
+      "validation_time": "2025-12-19T12:28:11.198555",
+      "passed": true,
+      "checks": {
+        "word_count": {
+          "original": 633,
+          "processed": 645,
+          "delta": 12,
+          "delta_pct": 1.9,
+          "threshold": 5,
+          "passed": true
+        },
+        "readability": {
+          "original": {
+            "grade_level": 17.7,
+            "reading_ease": 15.4,
+            "avg_words_per_sentence": 26.4,
+            "avg_syllables_per_word": 1.95
+          },
+          "processed": {
+            "grade_level": 17.9,
+            "reading_ease": 14.9,
+            "avg_words_per_sentence": 26.9,
+            "avg_syllables_per_word": 1.95
+          },
+          "reading_ease_drop": 0.5,
+          "threshold": 5,
+          "passed": true
+        },
+        "repeated_phrases": {
+          "count": 0,
+          "phrases": [],
+          "passed": true
+        },
+        "awkward_patterns": {
+          "count": 0,
+          "patterns": [],
+          "passed": true
+        },
+        "new_facts": {
+          "count": 0,
+          "facts": [],
+          "passed": true
+        }
+      },
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "article_id": "030",
+      "filename": "030_deepseek-the-ai-game-changer-and-how-to-use-it-on.md",
+      "validation_time": "2025-12-19T12:28:11.205066",
+      "passed": true,
+      "checks": {
+        "word_count": {
+          "original": 674,
+          "processed": 695,
+          "delta": 21,
+          "delta_pct": 3.12,
+          "threshold": 5,
+          "passed": true
+        },
+        "readability": {
+          "original": {
+            "grade_level": 11.6,
+            "reading_ease": 40.4,
+            "avg_words_per_sentence": 16.0,
+            "avg_syllables_per_word": 1.77
+          },
+          "processed": {
+            "grade_level": 11.8,
+            "reading_ease": 40.2,
+            "avg_words_per_sentence": 16.5,
+            "avg_syllables_per_word": 1.77
+          },
+          "reading_ease_drop": 0.2,
+          "threshold": 5,
+          "passed": true
+        },
+        "repeated_phrases": {
+          "count": 0,
+          "phrases": [],
+          "passed": true
+        },
+        "awkward_patterns": {
+          "count": 0,
+          "patterns": [],
+          "passed": true
+        },
+        "new_facts": {
+          "count": 0,
+          "facts": [],
+          "passed": true
+        }
+      },
+      "issues": [],
+      "warnings": []
+    }
+  ]
+}

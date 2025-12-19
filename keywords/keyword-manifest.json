@@ -1,0 +1,1497 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2025-12-19T12:20:01.544258",
+  "total_keywords": 94,
+  "keywords": [
+    {
+      "id": "kw-001",
+      "text": "HIPAA cloud consulting",
+      "text_lower": "hipaa cloud consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "HIPAA cloud consulting services",
+        "consulting cloud HIPAA"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-002",
+      "text": "Healthcare DevOps",
+      "text_lower": "healthcare devops",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "DevOps Healthcare"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-003",
+      "text": "Medical cloud migration",
+      "text_lower": "medical cloud migration",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "migration cloud Medical",
+        "Medical cloud solutions migration"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-004",
+      "text": "Healthcare AWS consulting",
+      "text_lower": "healthcare aws consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting AWS Healthcare",
+        "Healthcare AWS consulting services"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-005",
+      "text": "HIPAA compliance cloud",
+      "text_lower": "hipaa compliance cloud",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "cloud compliance HIPAA",
+        "HIPAA compliance cloud solutions"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-006",
+      "text": "Medical data security",
+      "text_lower": "medical data security",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "security data Medical"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-007",
+      "text": "Healthcare cloud strategy",
+      "text_lower": "healthcare cloud strategy",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "strategy cloud Healthcare",
+        "Healthcare cloud solutions strategy"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-008",
+      "text": "Clinical cloud solutions",
+      "text_lower": "clinical cloud solutions",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "solutions cloud Clinical"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-009",
+      "text": "Patient data protection",
+      "text_lower": "patient data protection",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "protection data Patient"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-010",
+      "text": "Healthcare IT consulting",
+      "text_lower": "healthcare it consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Healthcare IT consulting services",
+        "consulting IT Healthcare"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-011",
+      "text": "HIPAA compliant cloud migration consulting services",
+      "text_lower": "hipaa compliant cloud migration consulting services",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "HIPAA compliant cloud solutions migration consulting services",
+        "services consulting migration cloud compliant HIPAA"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-012",
+      "text": "Healthcare DevOps implementation with regulatory compliance",
+      "text_lower": "healthcare devops implementation with regulatory compliance",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "compliance regulatory with implementation DevOps Healthcare"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-013",
+      "text": "AWS cloud consulting for healthcare organizations",
+      "text_lower": "aws cloud consulting for healthcare organizations",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "AWS cloud solutions consulting for healthcare organizations",
+        "AWS cloud consulting for healthcare organizations services"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-014",
+      "text": "Medical practice cloud modernization consulting",
+      "text_lower": "medical practice cloud modernization consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting modernization cloud practice Medical",
+        "Medical practice cloud modernization consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-015",
+      "text": "Healthcare data migration HIPAA compliance requirements",
+      "text_lower": "healthcare data migration hipaa compliance requirements",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "requirements compliance HIPAA migration data Healthcare"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-016",
+      "text": "Clinical workflow cloud optimization consulting",
+      "text_lower": "clinical workflow cloud optimization consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Clinical workflow cloud optimization consulting services",
+        "Clinical workflow cloud solutions optimization consulting"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-017",
+      "text": "Patient data security cloud consulting services",
+      "text_lower": "patient data security cloud consulting services",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Patient data security cloud solutions consulting services",
+        "services consulting cloud security data Patient"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-018",
+      "text": "Healthcare legacy system cloud migration strategy",
+      "text_lower": "healthcare legacy system cloud migration strategy",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "strategy migration cloud system legacy Healthcare",
+        "Healthcare legacy system cloud solutions migration strategy"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-019",
+      "text": "Medical device integration cloud consulting",
+      "text_lower": "medical device integration cloud consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Medical device integration cloud solutions consulting",
+        "Medical device integration cloud consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-020",
+      "text": "Healthcare compliance audit cloud readiness assessment",
+      "text_lower": "healthcare compliance audit cloud readiness assessment",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "assessment readiness cloud audit compliance Healthcare",
+        "Healthcare compliance audit cloud solutions readiness assessment"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-021",
+      "text": "HIPAA risk assessment cloud consulting services",
+      "text_lower": "hipaa risk assessment cloud consulting services",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "HIPAA risk assessment cloud solutions consulting services",
+        "services consulting cloud assessment risk HIPAA"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-022",
+      "text": "Healthcare cloud security consulting and implementation",
+      "text_lower": "healthcare cloud security consulting and implementation",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Healthcare cloud security consulting and implementation services",
+        "Healthcare cloud solutions security consulting and implementation"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-023",
+      "text": "Medical practice digital transformation consulting",
+      "text_lower": "medical practice digital transformation consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting transformation digital practice Medical",
+        "Medical practice digital transformation consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-024",
+      "text": "Clinical data analytics cloud consulting services",
+      "text_lower": "clinical data analytics cloud consulting services",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Clinical data analytics cloud solutions consulting services",
+        "services consulting cloud analytics data Clinical"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-025",
+      "text": "Healthcare disaster recovery cloud consulting",
+      "text_lower": "healthcare disaster recovery cloud consulting",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Healthcare disaster recovery cloud solutions consulting",
+        "consulting cloud recovery disaster Healthcare"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-026",
+      "text": "Financial services DevOps",
+      "text_lower": "financial services devops",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "DevOps services Financial"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-027",
+      "text": "Banking cloud consulting",
+      "text_lower": "banking cloud consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting cloud Banking",
+        "Banking cloud consulting services"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-028",
+      "text": "Financial cloud migration",
+      "text_lower": "financial cloud migration",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Financial cloud solutions migration",
+        "migration cloud Financial"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-029",
+      "text": "SOX compliance cloud",
+      "text_lower": "sox compliance cloud",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "SOX compliance cloud solutions",
+        "cloud compliance SOX"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-030",
+      "text": "PCI DSS cloud consulting",
+      "text_lower": "pci dss cloud consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "PCI DSS cloud solutions consulting",
+        "consulting cloud DSS PCI"
+      ],
+      "word_count": 4
+    },
+    {
+      "id": "kw-031",
+      "text": "Financial services AWS",
+      "text_lower": "financial services aws",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "AWS services Financial"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-032",
+      "text": "Banking modernization",
+      "text_lower": "banking modernization",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "modernization Banking"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-033",
+      "text": "Financial cloud strategy",
+      "text_lower": "financial cloud strategy",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Financial cloud solutions strategy",
+        "strategy cloud Financial"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-034",
+      "text": "Fintech cloud solutions",
+      "text_lower": "fintech cloud solutions",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "solutions cloud Fintech"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-035",
+      "text": "Financial IT consulting",
+      "text_lower": "financial it consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting IT Financial",
+        "Financial IT consulting services"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-036",
+      "text": "Financial services cloud consulting SOX compliance",
+      "text_lower": "financial services cloud consulting sox compliance",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Financial services cloud solutions consulting SOX compliance",
+        "compliance SOX consulting cloud services Financial"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-037",
+      "text": "Banking DevOps implementation regulatory requirements",
+      "text_lower": "banking devops implementation regulatory requirements",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "requirements regulatory implementation DevOps Banking"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-038",
+      "text": "AWS cloud consulting for financial institutions",
+      "text_lower": "aws cloud consulting for financial institutions",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "AWS cloud solutions consulting for financial institutions",
+        "AWS cloud consulting for financial institutions services"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-039",
+      "text": "Financial services digital transformation consulting",
+      "text_lower": "financial services digital transformation consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting transformation digital services Financial"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-040",
+      "text": "Banking cloud migration PCI DSS compliance",
+      "text_lower": "banking cloud migration pci dss compliance",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Banking cloud solutions migration PCI DSS compliance",
+        "compliance DSS PCI migration cloud Banking"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-041",
+      "text": "Financial services operational resilience consulting",
+      "text_lower": "financial services operational resilience consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting resilience operational services Financial"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-042",
+      "text": "Investment firm cloud modernization strategy",
+      "text_lower": "investment firm cloud modernization strategy",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Investment firm cloud solutions modernization strategy",
+        "strategy modernization cloud firm Investment"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-043",
+      "text": "Banking legacy system cloud migration consulting",
+      "text_lower": "banking legacy system cloud migration consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Banking legacy system cloud solutions migration consulting",
+        "consulting migration cloud system legacy Banking"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-044",
+      "text": "Financial services multi-cloud strategy consulting",
+      "text_lower": "financial services multi-cloud strategy consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Financial services multi cloud strategy consulting",
+        "Financial services multi-cloud solutions strategy consulting"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-045",
+      "text": "Credit union cloud security consulting services",
+      "text_lower": "credit union cloud security consulting services",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Credit union cloud solutions security consulting services",
+        "services consulting security cloud union Credit"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-046",
+      "text": "Financial services disaster recovery cloud consulting",
+      "text_lower": "financial services disaster recovery cloud consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting cloud recovery disaster services Financial",
+        "Financial services disaster recovery cloud solutions consulting"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-047",
+      "text": "Banking API modernization cloud consulting",
+      "text_lower": "banking api modernization cloud consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting cloud modernization API Banking",
+        "Banking API modernization cloud solutions consulting"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-048",
+      "text": "Financial services data analytics cloud implementation",
+      "text_lower": "financial services data analytics cloud implementation",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Financial services data analytics cloud solutions implementation",
+        "implementation cloud analytics data services Financial"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-049",
+      "text": "Insurance company cloud transformation consulting",
+      "text_lower": "insurance company cloud transformation consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Insurance company cloud transformation consulting services",
+        "consulting transformation cloud company Insurance"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-050",
+      "text": "Financial services compliance automation consulting",
+      "text_lower": "financial services compliance automation consulting",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting automation compliance services Financial"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-051",
+      "text": "Cloud-native DevOps",
+      "text_lower": "cloud-native devops",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "DevOps Cloud-native",
+        "Cloud native DevOps"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-052",
+      "text": "Kubernetes consulting",
+      "text_lower": "kubernetes consulting",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting Kubernetes",
+        "Kubernetes consulting services"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-053",
+      "text": "Microservices consulting",
+      "text_lower": "microservices consulting",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting Microservices"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-054",
+      "text": "GenAI cloud consulting",
+      "text_lower": "genai cloud consulting",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "GenAI cloud solutions consulting",
+        "consulting cloud GenAI"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-055",
+      "text": "Serverless architecture",
+      "text_lower": "serverless architecture",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "architecture Serverless"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-056",
+      "text": "DevOps automation",
+      "text_lower": "devops automation",
+      "cluster": "devops",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "automation DevOps"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-057",
+      "text": "Cloud optimization",
+      "text_lower": "cloud optimization",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "optimization Cloud"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-058",
+      "text": "Scalability consulting",
+      "text_lower": "scalability consulting",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Scalability consulting services",
+        "consulting Scalability"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-059",
+      "text": "Modern DevOps practices",
+      "text_lower": "modern devops practices",
+      "cluster": "devops",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "practices DevOps Modern"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-060",
+      "text": "Cloud architecture consulting",
+      "text_lower": "cloud architecture consulting",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting architecture Cloud",
+        "Cloud architecture consulting services"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-061",
+      "text": "Cloud-native DevOps transformation consulting services",
+      "text_lower": "cloud-native devops transformation consulting services",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Cloud native DevOps transformation consulting services",
+        "services consulting transformation DevOps Cloud-native"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-062",
+      "text": "Kubernetes implementation and optimization consulting",
+      "text_lower": "kubernetes implementation and optimization consulting",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Kubernetes implementation and optimization consulting services",
+        "consulting optimization and implementation Kubernetes"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-063",
+      "text": "Microservices architecture cloud consulting",
+      "text_lower": "microservices architecture cloud consulting",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting cloud architecture Microservices",
+        "Microservices architecture cloud solutions consulting"
+      ],
+      "word_count": 4
+    },
+    {
+      "id": "kw-064",
+      "text": "GenAI implementation cloud consulting services",
+      "text_lower": "genai implementation cloud consulting services",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "services consulting cloud implementation GenAI",
+        "GenAI implementation cloud solutions consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-065",
+      "text": "Serverless architecture consulting and migration",
+      "text_lower": "serverless architecture consulting and migration",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "migration and consulting architecture Serverless",
+        "Serverless architecture consulting and migration services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-066",
+      "text": "DevOps automation and CI/CD pipeline consulting",
+      "text_lower": "devops automation and ci/cd pipeline consulting",
+      "cluster": "devops",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "DevOps automation and CI/CD pipeline consulting services",
+        "consulting pipeline CI/CD and automation DevOps"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-067",
+      "text": "Cloud cost optimization and performance consulting",
+      "text_lower": "cloud cost optimization and performance consulting",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Cloud cost optimization and performance consulting services",
+        "consulting performance and optimization cost Cloud"
+      ],
+      "word_count": 6
+    },
+    {
+      "id": "kw-068",
+      "text": "Scalable cloud architecture design consulting",
+      "text_lower": "scalable cloud architecture design consulting",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Scalable cloud solutions architecture design consulting",
+        "Scalable cloud architecture design consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-069",
+      "text": "Container orchestration consulting services",
+      "text_lower": "container orchestration consulting services",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "services consulting orchestration Container"
+      ],
+      "word_count": 4
+    },
+    {
+      "id": "kw-070",
+      "text": "Cloud security DevOps integration consulting",
+      "text_lower": "cloud security devops integration consulting",
+      "cluster": "devops",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting integration DevOps security Cloud",
+        "Cloud security DevOps integration consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-071",
+      "text": "Multi-cloud architecture strategy consulting",
+      "text_lower": "multi-cloud architecture strategy consulting",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Multi cloud architecture strategy consulting",
+        "consulting strategy architecture Multi-cloud"
+      ],
+      "word_count": 4
+    },
+    {
+      "id": "kw-072",
+      "text": "DevOps culture transformation consulting",
+      "text_lower": "devops culture transformation consulting",
+      "cluster": "devops",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "DevOps culture transformation consulting services",
+        "consulting transformation culture DevOps"
+      ],
+      "word_count": 4
+    },
+    {
+      "id": "kw-073",
+      "text": "Cloud monitoring and observability consulting",
+      "text_lower": "cloud monitoring and observability consulting",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting observability and monitoring Cloud",
+        "Cloud monitoring and observability consulting services"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-074",
+      "text": "Infrastructure as code consulting services",
+      "text_lower": "infrastructure as code consulting services",
+      "cluster": "cloud-consulting",
+      "priority": 3,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "services consulting code as Infrastructure"
+      ],
+      "word_count": 5
+    },
+    {
+      "id": "kw-075",
+      "text": "Cloud-native application modernization consulting",
+      "text_lower": "cloud-native application modernization consulting",
+      "cluster": "cloud-native",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "consulting modernization application Cloud-native",
+        "Cloud-native application modernization consulting services"
+      ],
+      "word_count": 4
+    },
+    {
+      "id": "kw-076",
+      "text": "Cloud Migration",
+      "text_lower": "cloud migration",
+      "cluster": "general",
+      "priority": 4,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Migration Cloud"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-078",
+      "text": "AWS Healthcare",
+      "text_lower": "aws healthcare",
+      "cluster": "healthcare",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Healthcare AWS"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-082",
+      "text": "DevOps Financial Services",
+      "text_lower": "devops financial services",
+      "cluster": "financial",
+      "priority": 1,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "Services Financial DevOps"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-096",
+      "text": "bedrock pricing",
+      "text_lower": "bedrock pricing",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "pricing bedrock"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-097",
+      "text": "moto testing",
+      "text_lower": "moto testing",
+      "cluster": "general",
+      "priority": 4,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "testing moto"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-098",
+      "text": "aws bedrock",
+      "text_lower": "aws bedrock",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "bedrock aws"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-099",
+      "text": "bedrock alternatives",
+      "text_lower": "bedrock alternatives",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "bedrock alter-natives",
+        "alternatives bedrock"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-100",
+      "text": "amazon nova act",
+      "text_lower": "amazon nova act",
+      "cluster": "aws-specific",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "act nova amazon"
+      ],
+      "word_count": 3
+    },
+    {
+      "id": "kw-101",
+      "text": "semantic search",
+      "text_lower": "semantic search",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "search semantic"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-102",
+      "text": "text embedding",
+      "text_lower": "text embedding",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "embedding text"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-103",
+      "text": "hyperwrite",
+      "text_lower": "hyperwrite",
+      "cluster": "general",
+      "priority": 4,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [],
+      "word_count": 1
+    },
+    {
+      "id": "kw-104",
+      "text": "transformer model",
+      "text_lower": "transformer model",
+      "cluster": "genai",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "model transformer"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-105",
+      "text": "fine tuning",
+      "text_lower": "fine tuning",
+      "cluster": "general",
+      "priority": 4,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "tuning fine"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-106",
+      "text": "mit license",
+      "text_lower": "mit license",
+      "cluster": "general",
+      "priority": 4,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "license mit"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-107",
+      "text": "credential stuffing",
+      "text_lower": "credential stuffing",
+      "cluster": "security",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "stuffing credential"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-108",
+      "text": "soc team",
+      "text_lower": "soc team",
+      "cluster": "security",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "team soc"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-109",
+      "text": "shadow it",
+      "text_lower": "shadow it",
+      "cluster": "security",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "it shadow"
+      ],
+      "word_count": 2
+    },
+    {
+      "id": "kw-110",
+      "text": "sbom",
+      "text_lower": "sbom",
+      "cluster": "security",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [],
+      "word_count": 1
+    },
+    {
+      "id": "kw-111",
+      "text": "inovative solutions jobs",
+      "text_lower": "inovative solutions jobs",
+      "cluster": "aws-specific",
+      "priority": 2,
+      "max_exact_per_article": 2,
+      "allow_semantic_variants": true,
+      "variants": [
+        "jobs solutions inovative"
+      ],
+      "word_count": 3
+    }
+  ],
+  "clusters": {
+    "healthcare": {
+      "keyword_ids": [
+        "kw-001",
+        "kw-002",
+        "kw-003",
+        "kw-004",
+        "kw-005",
+        "kw-006",
+        "kw-007",
+        "kw-008",
+        "kw-009",
+        "kw-010",
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015",
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020",
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-024",
+        "kw-025",
+        "kw-078"
+      ],
+      "count": 26,
+      "target_themes": [
+        "security",
+        "compliance",
+        "cloud-consulting",
+        "migration"
+      ],
+      "priority": 1
+    },
+    "financial": {
+      "keyword_ids": [
+        "kw-026",
+        "kw-027",
+        "kw-028",
+        "kw-029",
+        "kw-030",
+        "kw-031",
+        "kw-032",
+        "kw-033",
+        "kw-034",
+        "kw-035",
+        "kw-036",
+        "kw-037",
+        "kw-038",
+        "kw-039",
+        "kw-040",
+        "kw-041",
+        "kw-042",
+        "kw-043",
+        "kw-044",
+        "kw-045",
+        "kw-046",
+        "kw-047",
+        "kw-048",
+        "kw-049",
+        "kw-050",
+        "kw-082"
+      ],
+      "count": 26,
+      "target_themes": [
+        "security",
+        "compliance",
+        "cloud-consulting",
+        "migration",
+        "data-analytics"
+      ],
+      "priority": 1
+    },
+    "cloud-native": {
+      "keyword_ids": [
+        "kw-051",
+        "kw-052",
+        "kw-053",
+        "kw-055",
+        "kw-061",
+        "kw-062",
+        "kw-063",
+        "kw-065",
+        "kw-069",
+        "kw-075"
+      ],
+      "count": 10,
+      "target_themes": [
+        "kubernetes",
+        "containers",
+        "serverless",
+        "devops",
+        "aws",
+        "azure",
+        "gcp"
+      ],
+      "priority": 2
+    },
+    "genai": {
+      "keyword_ids": [
+        "kw-054",
+        "kw-064",
+        "kw-096",
+        "kw-098",
+        "kw-099",
+        "kw-101",
+        "kw-102",
+        "kw-104"
+      ],
+      "count": 8,
+      "target_themes": [
+        "genai",
+        "aws",
+        "data-analytics",
+        "tutorial"
+      ],
+      "priority": 2
+    },
+    "devops": {
+      "keyword_ids": [
+        "kw-056",
+        "kw-059",
+        "kw-066",
+        "kw-070",
+        "kw-072"
+      ],
+      "count": 5,
+      "target_themes": [
+        "devops",
+        "automation",
+        "terraform",
+        "tutorial"
+      ],
+      "priority": 2
+    },
+    "cloud-consulting": {
+      "keyword_ids": [
+        "kw-057",
+        "kw-058",
+        "kw-060",
+        "kw-067",
+        "kw-068",
+        "kw-071",
+        "kw-073",
+        "kw-074"
+      ],
+      "count": 8,
+      "target_themes": [
+        "cloud-consulting",
+        "migration",
+        "company-news"
+      ],
+      "priority": 3
+    },
+    "general": {
+      "keyword_ids": [
+        "kw-076",
+        "kw-097",
+        "kw-103",
+        "kw-105",
+        "kw-106"
+      ],
+      "count": 5,
+      "target_themes": [
+        "general",
+        "tutorial",
+        "cloud-consulting"
+      ],
+      "priority": 4
+    },
+    "aws-specific": {
+      "keyword_ids": [
+        "kw-100",
+        "kw-111"
+      ],
+      "count": 2,
+      "target_themes": [
+        "aws",
+        "kubernetes",
+        "containers",
+        "serverless",
+        "genai"
+      ],
+      "priority": 2
+    },
+    "security": {
+      "keyword_ids": [
+        "kw-107",
+        "kw-108",
+        "kw-109",
+        "kw-110"
+      ],
+      "count": 4,
+      "target_themes": [
+        "security",
+        "devops",
+        "cloud-consulting"
+      ],
+      "priority": 2
+    }
+  },
+  "cluster_summary": {
+    "healthcare": 26,
+    "financial": 26,
+    "cloud-native": 10,
+    "genai": 8,
+    "devops": 5,
+    "cloud-consulting": 8,
+    "general": 5,
+    "aws-specific": 2,
+    "security": 4
+  }
+}

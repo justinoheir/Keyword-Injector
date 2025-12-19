@@ -1,0 +1,55 @@
+{
+  "run_id": "run-2025-12-19T12-27-54",
+  "started_at": "2025-12-19T12:27:54.479862",
+  "config_hash": "302194d5d5d9",
+  "dry_run": false,
+  "totals": {
+    "articles_processed": 5,
+    "articles_passed": 4,
+    "articles_failed": 1,
+    "keywords_inserted": 16,
+    "keywords_skipped": 9,
+    "total_words_added": 63
+  },
+  "failed_articles": [
+    "010"
+  ],
+  "article_summaries": [
+    {
+      "article_id": "001",
+      "status": "passed",
+      "keywords_inserted": 2,
+      "keywords_skipped": 3,
+      "word_delta": 8
+    },
+    {
+      "article_id": "002",
+      "status": "passed",
+      "keywords_inserted": 1,
+      "keywords_skipped": 4,
+      "word_delta": 4
+    },
+    {
+      "article_id": "010",
+      "status": "failed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 18
+    },
+    {
+      "article_id": "020",
+      "status": "passed",
+      "keywords_inserted": 3,
+      "keywords_skipped": 2,
+      "word_delta": 12
+    },
+    {
+      "article_id": "030",
+      "status": "passed",
+      "keywords_inserted": 5,
+      "keywords_skipped": 0,
+      "word_delta": 21
+    }
+  ],
+  "completed_at": "2025-12-19T12:27:54.523773"
+}

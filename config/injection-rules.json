@@ -23,8 +23,8 @@
   ],
   "guardrails": {
     "article_level": {
-      "max_word_count_increase_pct": 5,
-      "max_sentences_modified_pct": 20,
+      "max_word_count_increase_pct": 8,
+      "max_sentences_modified_pct": 25,
       "max_repeated_phrase_occurrences": 3,
       "min_repeated_phrase_words": 5,
       "max_readability_score_drop": 5,

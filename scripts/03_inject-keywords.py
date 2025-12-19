@@ -405,20 +405,34 @@ class KeywordInjector:
         if modified_pct > max_modified:
             flags.append(f"sentences_modified_exceeded: {modified_pct:.1f}% > {max_modified}%")
         
-        # Repeated phrase detection
+        # Repeated phrase detection - only flag NEW repeated phrases
         min_phrase_words = article_guardrails.get("min_repeated_phrase_words", 5)
         max_occurrences = article_guardrails.get("max_repeated_phrase_occurrences", 3)
         
-        # Extract all 5+ word phrases and count
-        words = modified_content.lower().split()
-        phrase_counts = defaultdict(int)
-        for i in range(len(words) - min_phrase_words + 1):
-            phrase = " ".join(words[i:i + min_phrase_words])
-            phrase_counts[phrase] += 1
+        # Count phrases in ORIGINAL content
+        original_words = original_content.lower().split()
+        original_phrase_counts = defaultdict(int)
+        for i in range(len(original_words) - min_phrase_words + 1):
+            phrase = " ".join(original_words[i:i + min_phrase_words])
+            original_phrase_counts[phrase] += 1
         
-        repeated = [p for p, c in phrase_counts.items() if c >= max_occurrences]
-        if repeated:
-            flags.append(f"repeated_phrases: {repeated[:3]}")
+        # Count phrases in MODIFIED content
+        modified_words_list = modified_content.lower().split()
+        modified_phrase_counts = defaultdict(int)
+        for i in range(len(modified_words_list) - min_phrase_words + 1):
+            phrase = " ".join(modified_words_list[i:i + min_phrase_words])
+            modified_phrase_counts[phrase] += 1
+        
+        # Only flag phrases that are NEW or have INCREASED beyond threshold
+        new_repeated = []
+        for phrase, count in modified_phrase_counts.items():
+            original_count = original_phrase_counts.get(phrase, 0)
+            # Only flag if: count exceeds threshold AND count increased from original
+            if count >= max_occurrences and count > original_count:
+                new_repeated.append(phrase)
+        
+        if new_repeated:
+            flags.append(f"new_repeated_phrases: {new_repeated[:3]}")
         
         # Determine pass/fail
         passed = len(flags) == 0
